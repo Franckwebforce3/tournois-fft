@@ -1,0 +1,14 @@
+{
+    "name": "tournois-fft-scraper",
+    "version": "0.0.1",
+    "description": "Scrape le site des tournois FFT",
+    "author": "Eric Abouaf <eric.abouaf@gmail.com>",
+    "engines": {
+        "node" : ">=0.8.0"
+    },
+    "dependencies": {
+		"request": "2.11.4",
+		"htmlparser": "1.7.6",
+		"async": "0.1.22"
+    }
+}
