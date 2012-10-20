@@ -1,0 +1,1313 @@
+[
+   {
+      "hoi_iid": "82016128",
+      "inscriptionEnLigne": false,
+      "resultatsConsultables": false,
+      "programmePubliable": false,
+      "annee_sportive": "2013",
+      "ligue": "PARIS (19)",
+      "dpt": "75",
+      "club": "ASS FRANCAISE DE TENNIS SENIOR+",
+      "competition": "Tournoi interne r�serv� aux membres",
+      "codePostal": "19230",
+      "ville": "pompadour",
+      "debut": "20/10/12",
+      "fin": "27/10/12",
+      "inscription": {
+         "enLigne": "Non",
+         "responsable": "Tournoi interne ",
+         "adresse": "19000 TULLE",
+         "telBureau": "",
+         "telDomicile": "",
+         "telMobile": "",
+         "fax": "",
+         "email": ""
+      },
+      "installations": {
+         "adresse": "club m�diterran�e\n\n19230 pompadour",
+         "surfaces": "2 Terre battue traditionnelle\n2 Terre battue traditionnelle"
+      },
+      "epreuves": [
+         {
+            "nom": "Simple DAMES 45",
+            "nature": "Simple Dames",
+            "categorie": "45",
+            "classement": "Open",
+            "debut": "20/10/12",
+            "fin": "27/10/12",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "0,00"
+         },
+         {
+            "nom": "Simple Dames 50",
+            "nature": "Simple Dames",
+            "categorie": "50",
+            "classement": "Open",
+            "debut": "20/10/12",
+            "fin": "27/10/12",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "0,00"
+         },
+         {
+            "nom": "Simple Dames 55",
+            "nature": "Simple Dames",
+            "categorie": "55",
+            "classement": "Open",
+            "debut": "20/10/12",
+            "fin": "27/10/12",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "0,00"
+         },
+         {
+            "nom": "Simple Dames 60",
+            "nature": "Simple Dames",
+            "categorie": "60",
+            "classement": "Open",
+            "debut": "20/10/12",
+            "fin": "27/10/12",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "0,00"
+         },
+         {
+            "nom": "Simple Dames 65",
+            "nature": "Simple Dames",
+            "categorie": "65",
+            "classement": "Open",
+            "debut": "20/10/12",
+            "fin": "27/10/12",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "0,00"
+         },
+         {
+            "nom": "Simple Dames 70D",
+            "nature": "Simple Dames",
+            "categorie": "70D",
+            "classement": "Open",
+            "debut": "20/10/12",
+            "fin": "27/10/12",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "0,00"
+         },
+         {
+            "nom": "Simple Messieurs 45",
+            "nature": "Simple Messieurs",
+            "categorie": "45",
+            "classement": "Open",
+            "debut": "20/10/12",
+            "fin": "27/10/12",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "0,00"
+         },
+         {
+            "nom": "Simple Messieurs 50",
+            "nature": "Simple Messieurs",
+            "categorie": "50",
+            "classement": "Open",
+            "debut": "20/10/12",
+            "fin": "27/10/12",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "0,00"
+         },
+         {
+            "nom": "Simple Messieurs 55",
+            "nature": "Simple Messieurs",
+            "categorie": "55",
+            "classement": "Open",
+            "debut": "20/10/12",
+            "fin": "27/10/12",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "0,00"
+         },
+         {
+            "nom": "Simple Messieurs 60",
+            "nature": "Simple Messieurs",
+            "categorie": "60",
+            "classement": "Open",
+            "debut": "20/10/12",
+            "fin": "27/10/12",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "0,00"
+         },
+         {
+            "nom": "Simple Messieurs 65",
+            "nature": "Simple Messieurs",
+            "categorie": "65",
+            "classement": "Open",
+            "debut": "20/10/12",
+            "fin": "27/10/12",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "0,00"
+         },
+         {
+            "nom": "Simple Messieurs 70M",
+            "nature": "Simple Messieurs",
+            "categorie": "70M",
+            "classement": "Open",
+            "debut": "20/10/12",
+            "fin": "27/10/12",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "0,00"
+         },
+         {
+            "nom": "Simple Messieurs 75M",
+            "nature": "Simple Messieurs",
+            "categorie": "75M",
+            "classement": "Open",
+            "debut": "20/10/12",
+            "fin": "27/10/12",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "0,00"
+         },
+         {
+            "nom": "DOUBLE MIXTE",
+            "nature": "Double Mixte",
+            "categorie": "Senior",
+            "classement": "NC &gt; 15",
+            "debut": "20/10/12",
+            "fin": "27/10/12",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "0,00"
+         },
+         {
+            "nom": "Consolante - Consolante +45 DAMES",
+            "nature": "Simple Dames",
+            "categorie": "45",
+            "classement": "NC &gt; 15",
+            "debut": "20/10/12",
+            "fin": "27/10/12",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "0,00"
+         },
+         {
+            "nom": "Consolante - Consolante +70 DAMES",
+            "nature": "Simple Dames",
+            "categorie": "70D",
+            "classement": "NC &gt; 15",
+            "debut": "20/10/12",
+            "fin": "27/10/12",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "0,00"
+         },
+         {
+            "nom": "Consolante - Consolante +45 HOMMES",
+            "nature": "Simple Messieurs",
+            "categorie": "45",
+            "classement": "NC &gt; 15",
+            "debut": "20/10/12",
+            "fin": "27/10/12",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "0,00"
+         },
+         {
+            "nom": "Consolante - Consolante +65 HOMMES",
+            "nature": "Simple Messieurs",
+            "categorie": "65",
+            "classement": "NC &gt; 15",
+            "debut": "20/10/12",
+            "fin": "27/10/12",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "0,00"
+         },
+         {
+            "nom": "Consolante - Consolante +70 HOMMES",
+            "nature": "Simple Messieurs",
+            "categorie": "70M",
+            "classement": "NC &gt; 15",
+            "debut": "20/10/12",
+            "fin": "27/10/12",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "0,00"
+         }
+      ]
+   },
+   {
+      "hoi_iid": "82020322",
+      "inscriptionEnLigne": false,
+      "resultatsConsultables": true,
+      "programmePubliable": true,
+      "annee_sportive": "2013",
+      "ligue": "PARIS (19)",
+      "dpt": "75",
+      "club": "OFFICE DU MOUVEMENT SPORTIF DU 15EME ARRON",
+      "competition": "Tournoi open OFFICE DU MOUVEMENT SPORTIF DU 15EME",
+      "codePostal": "75015",
+      "ville": "PARIS 15",
+      "debut": "27/10/12",
+      "fin": "11/11/12",
+      "inscription": {
+         "enLigne": "Non",
+         "responsable": "FIDON Fran�oise",
+         "adresse": "59 rue Emeriau\n\n75015 PARIS",
+         "telBureau": "01.43.06.69.74",
+         "telDomicile": "",
+         "telMobile": "",
+         "fax": "01.43.06.69.74",
+         "email": "oms15@orange.fr"
+      },
+      "installations": {
+         "adresse": "STADE SUZANNE LENGLEN\n\n2, rue Louis Armand\n\n75015 PARIS 15",
+         "surfaces": ""
+      },
+      "epreuves": [
+         {
+            "nom": "Simple Dames 13/14 ans",
+            "nature": "Simple Dames",
+            "categorie": "13/14 ans",
+            "classement": "Open",
+            "debut": "27/10/12",
+            "fin": "11/11/12",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "17,00"
+         },
+         {
+            "nom": "Simple Dames 15/16 ans",
+            "nature": "Simple Dames",
+            "categorie": "15/16 ans",
+            "classement": "Open",
+            "debut": "27/10/12",
+            "fin": "11/11/12",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "17,00"
+         },
+         {
+            "nom": "Simple Messieurs 13/14 ans",
+            "nature": "Simple Messieurs",
+            "categorie": "13/14 ans",
+            "classement": "Open",
+            "debut": "27/10/12",
+            "fin": "11/11/12",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "17,00"
+         },
+         {
+            "nom": "Simple Messieurs 15/16 ans",
+            "nature": "Simple Messieurs",
+            "categorie": "15/16 ans",
+            "classement": "Open",
+            "debut": "27/10/12",
+            "fin": "11/11/12",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "17,00"
+         }
+      ]
+   },
+   {
+      "hoi_iid": "82017584",
+      "inscriptionEnLigne": true,
+      "resultatsConsultables": false,
+      "programmePubliable": false,
+      "annee_sportive": "2013",
+      "ligue": "PARIS (19)",
+      "dpt": "75",
+      "club": "TENNIS COMPETITION/CFD",
+      "competition": "Tournoi open TENNIS COMPETITION/CFD",
+      "codePostal": "94800",
+      "ville": "VILLEJUIF",
+      "debut": "27/10/12",
+      "fin": "14/11/12",
+      "inscription": {
+         "enLigne": "",
+         "responsable": "cfdtc tournoi open toussaint",
+         "adresse": "CFDTC\n\n116 rue edouard vaillant\n\n94800 villejuif",
+         "telBureau": "",
+         "telDomicile": "",
+         "telMobile": "",
+         "fax": "",
+         "email": "manueldecarvalho@sfr.fr"
+      },
+      "installations": {
+         "adresse": "CFD TENNIS COMPETITION\n\n116, Rue Edouard Vaillant\n\n94800 VILLEJUIF",
+         "surfaces": "1 Moquette (avec ou sans mat�riaux libres)"
+      },
+      "epreuves": [
+         {
+            "nom": "Simple Dames 9/10 ans",
+            "nature": "Simple Dames",
+            "categorie": "9/10 ans",
+            "classement": "Open",
+            "debut": "27/10/12",
+            "fin": "14/11/12",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "18,00"
+         },
+         {
+            "nom": "Simple Dames 11/12 ans",
+            "nature": "Simple Dames",
+            "categorie": "11/12 ans",
+            "classement": "Open",
+            "debut": "27/10/12",
+            "fin": "14/11/12",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "18,00"
+         },
+         {
+            "nom": "Simple Dames 13/14 ans",
+            "nature": "Simple Dames",
+            "categorie": "13/14 ans",
+            "classement": "Open",
+            "debut": "27/10/12",
+            "fin": "14/11/12",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "18,00"
+         },
+         {
+            "nom": "Simple Dames 15/16 ans",
+            "nature": "Simple Dames",
+            "categorie": "15/16 ans",
+            "classement": "Open",
+            "debut": "27/10/12",
+            "fin": "14/11/12",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "18,00"
+         },
+         {
+            "nom": "Simple Dames 17/18 ans",
+            "nature": "Simple Dames",
+            "categorie": "17/18 ans",
+            "classement": "Open",
+            "debut": "27/10/12",
+            "fin": "14/11/12",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "18,00"
+         },
+         {
+            "nom": "Simple Dames Senior",
+            "nature": "Simple Dames",
+            "categorie": "Senior",
+            "classement": "Open",
+            "debut": "27/10/12",
+            "fin": "14/11/12",
+            "tarifAdulte": "25,00",
+            "tarifJeune": "20,00"
+         },
+         {
+            "nom": "Simple Messieurs 9/10 ans",
+            "nature": "Simple Messieurs",
+            "categorie": "9/10 ans",
+            "classement": "Open",
+            "debut": "27/10/12",
+            "fin": "14/11/12",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "18,00"
+         },
+         {
+            "nom": "Simple Messieurs 11/12 ans",
+            "nature": "Simple Messieurs",
+            "categorie": "11/12 ans",
+            "classement": "Open",
+            "debut": "27/10/12",
+            "fin": "14/11/12",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "18,00"
+         },
+         {
+            "nom": "Simple Messieurs 13/14 ans",
+            "nature": "Simple Messieurs",
+            "categorie": "13/14 ans",
+            "classement": "Open",
+            "debut": "27/10/12",
+            "fin": "14/11/12",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "18,00"
+         },
+         {
+            "nom": "Simple Messieurs 15/16 ans",
+            "nature": "Simple Messieurs",
+            "categorie": "15/16 ans",
+            "classement": "Open",
+            "debut": "27/10/12",
+            "fin": "14/11/12",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "18,00"
+         },
+         {
+            "nom": "Simple Messieurs 17/18 ans",
+            "nature": "Simple Messieurs",
+            "categorie": "17/18 ans",
+            "classement": "Open",
+            "debut": "27/10/12",
+            "fin": "14/11/12",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "18,00"
+         },
+         {
+            "nom": "Simple Messieurs Senior",
+            "nature": "Simple Messieurs",
+            "categorie": "Senior",
+            "classement": "Open",
+            "debut": "27/10/12",
+            "fin": "14/11/12",
+            "tarifAdulte": "25,00",
+            "tarifJeune": "20,00"
+         }
+      ]
+   },
+   {
+      "hoi_iid": "82016256",
+      "inscriptionEnLigne": false,
+      "resultatsConsultables": false,
+      "programmePubliable": false,
+      "annee_sportive": "2013",
+      "ligue": "PARIS (19)",
+      "dpt": "75",
+      "club": "TENNIS CLUB DE PARIS",
+      "competition": "Qualifications Ouatt TCP",
+      "codePostal": "75016",
+      "ville": "PARIS",
+      "debut": "29/10/12",
+      "fin": "07/11/12",
+      "inscription": {
+         "enLigne": "Non",
+         "responsable": "TCP OUATT",
+         "adresse": "15, Avenue F�lix d&#39;H�relle\n\n75016 PARIS",
+         "telBureau": "",
+         "telDomicile": "",
+         "telMobile": "",
+         "fax": "",
+         "email": "tcpouatt@hotmail.fr"
+      },
+      "installations": {
+         "adresse": "TENNIS CLUB DE PARIS\n\n15 av.felix d&#39;herelle\n\n75016 PARIS",
+         "surfaces": "1 R�sine\n1 Terre battue traditionnelle"
+      },
+      "epreuves": [
+         {
+            "nom": "Simple Dames 9 ans (n�e en 2004)",
+            "nature": "Simple Dames",
+            "categorie": "9 ans",
+            "classement": "Open",
+            "debut": "29/10/12",
+            "fin": "07/11/12",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "17,00"
+         },
+         {
+            "nom": "Simple Dames 10 ans (n�e en 2003)",
+            "nature": "Simple Dames",
+            "categorie": "10 ans",
+            "classement": "Open",
+            "debut": "29/10/12",
+            "fin": "07/11/12",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "17,00"
+         },
+         {
+            "nom": "Simple Dames 11 ans (n�e en 2002)",
+            "nature": "Simple Dames",
+            "categorie": "11 ans",
+            "classement": "Open",
+            "debut": "29/10/12",
+            "fin": "07/11/12",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "17,00"
+         },
+         {
+            "nom": "Simple Dames 12 ans (n�e en 2001)",
+            "nature": "Simple Dames",
+            "categorie": "12 ans",
+            "classement": "Open",
+            "debut": "29/10/12",
+            "fin": "07/11/12",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "17,00"
+         },
+         {
+            "nom": "Simple Dames 13 ans (n�e en 2000)",
+            "nature": "Simple Dames",
+            "categorie": "13 ans",
+            "classement": "Open",
+            "debut": "29/10/12",
+            "fin": "07/11/12",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "17,00"
+         },
+         {
+            "nom": "Simple Dames 14 ans (n�e en 1999)",
+            "nature": "Simple Dames",
+            "categorie": "13/14 ans",
+            "classement": "Open",
+            "debut": "29/10/12",
+            "fin": "07/11/12",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "17,00"
+         },
+         {
+            "nom": "Simple Dames 15 ans (n�e en 1998)",
+            "nature": "Simple Dames",
+            "categorie": "15 ans",
+            "classement": "Open",
+            "debut": "29/10/12",
+            "fin": "07/11/12",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "17,00"
+         },
+         {
+            "nom": "Simple Dames 16 ans (n�e en 1997)",
+            "nature": "Simple Dames",
+            "categorie": "15/16 ans",
+            "classement": "Open",
+            "debut": "29/10/12",
+            "fin": "07/11/12",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "17,00"
+         },
+         {
+            "nom": "Simple Messieurs 9 ans (n� en 2004)",
+            "nature": "Simple Messieurs",
+            "categorie": "9 ans",
+            "classement": "Open",
+            "debut": "29/10/12",
+            "fin": "07/11/12",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "17,00"
+         },
+         {
+            "nom": "Simple Messieurs 10 ans (n� en 2003)",
+            "nature": "Simple Messieurs",
+            "categorie": "10 ans",
+            "classement": "Open",
+            "debut": "29/10/12",
+            "fin": "07/11/12",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "17,00"
+         },
+         {
+            "nom": "Simple Messieurs 11 ans (n� en 2002)",
+            "nature": "Simple Messieurs",
+            "categorie": "11 ans",
+            "classement": "Open",
+            "debut": "29/10/12",
+            "fin": "07/11/12",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "17,00"
+         },
+         {
+            "nom": "Simple Messieurs 12 ans (n� en 2001)",
+            "nature": "Simple Messieurs",
+            "categorie": "12 ans",
+            "classement": "Open",
+            "debut": "29/10/12",
+            "fin": "07/11/12",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "17,00"
+         },
+         {
+            "nom": "Simple Messieurs 13 ans (n� en 2000)",
+            "nature": "Simple Messieurs",
+            "categorie": "13 ans",
+            "classement": "Open",
+            "debut": "29/10/12",
+            "fin": "07/11/12",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "17,00"
+         },
+         {
+            "nom": "Simple Messieurs 14 ans (n� en 1999)",
+            "nature": "Simple Messieurs",
+            "categorie": "13/14 ans",
+            "classement": "Open",
+            "debut": "29/10/12",
+            "fin": "07/11/12",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "17,00"
+         },
+         {
+            "nom": "Simple Messieurs 15 ans (n� en 1998)",
+            "nature": "Simple Messieurs",
+            "categorie": "15 ans",
+            "classement": "Open",
+            "debut": "29/10/12",
+            "fin": "07/11/12",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "17,00"
+         },
+         {
+            "nom": "Simple Messieurs 16 ans (n� en 1997)",
+            "nature": "Simple Messieurs",
+            "categorie": "15/16 ans",
+            "classement": "Open",
+            "debut": "29/10/12",
+            "fin": "07/11/12",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "17,00"
+         }
+      ]
+   },
+   {
+      "hoi_iid": "82016876",
+      "inscriptionEnLigne": false,
+      "resultatsConsultables": false,
+      "programmePubliable": false,
+      "annee_sportive": "2013",
+      "ligue": "PARIS (19)",
+      "dpt": "75",
+      "club": "JOINVILLE (T.C.P.)",
+      "competition": "Tournoi open JOINVILLE (T.C.P.)",
+      "codePostal": "75012",
+      "ville": "PARIS",
+      "debut": "02/11/12",
+      "fin": "11/11/12",
+      "inscription": {
+         "enLigne": "Non",
+         "responsable": "BALLANT Micha�l",
+         "adresse": "1 rue Halifax\n\n94340 JOINVILLE LE PONT",
+         "telBureau": "",
+         "telDomicile": "",
+         "telMobile": "",
+         "fax": "",
+         "email": ""
+      },
+      "installations": {
+         "adresse": "T.C.P.JOINVILLE\n\nRoute de la Pyramide\n\n75012 PARIS",
+         "surfaces": "4 Terre battue traditionnelle"
+      },
+      "epreuves": [
+         {
+            "nom": "Simple Dames 9/10 ans",
+            "nature": "Simple Dames",
+            "categorie": "9/10 ans",
+            "classement": "Open",
+            "debut": "02/11/12",
+            "fin": "11/11/12",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "18,00"
+         },
+         {
+            "nom": "Simple Dames 11/12 ans",
+            "nature": "Simple Dames",
+            "categorie": "11/12 ans",
+            "classement": "Open",
+            "debut": "02/11/12",
+            "fin": "11/11/12",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "18,00"
+         },
+         {
+            "nom": "Simple Dames 13/14 ans",
+            "nature": "Simple Dames",
+            "categorie": "13/14 ans",
+            "classement": "Open",
+            "debut": "02/11/12",
+            "fin": "11/11/12",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "18,00"
+         },
+         {
+            "nom": "Simple Dames 17/18 ans",
+            "nature": "Simple Dames",
+            "categorie": "17/18 ans",
+            "classement": "Open",
+            "debut": "02/11/12",
+            "fin": "11/11/12",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "18,00"
+         },
+         {
+            "nom": "Simple Messieurs 9/10 ans",
+            "nature": "Simple Messieurs",
+            "categorie": "9/10 ans",
+            "classement": "Open",
+            "debut": "02/11/12",
+            "fin": "11/11/12",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "18,00"
+         },
+         {
+            "nom": "Simple Messieurs 11/12 ans",
+            "nature": "Simple Messieurs",
+            "categorie": "11/12 ans",
+            "classement": "Open",
+            "debut": "02/11/12",
+            "fin": "11/11/12",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "18,00"
+         },
+         {
+            "nom": "Simple Messieurs 13/14 ans",
+            "nature": "Simple Messieurs",
+            "categorie": "13/14 ans",
+            "classement": "Open",
+            "debut": "02/11/12",
+            "fin": "11/11/12",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "18,00"
+         },
+         {
+            "nom": "Simple Messieurs 17/18 ans",
+            "nature": "Simple Messieurs",
+            "categorie": "17/18 ans",
+            "classement": "Open",
+            "debut": "02/11/12",
+            "fin": "11/11/12",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "18,00"
+         }
+      ]
+   },
+   {
+      "hoi_iid": "82016573",
+      "inscriptionEnLigne": false,
+      "resultatsConsultables": false,
+      "programmePubliable": false,
+      "annee_sportive": "2013",
+      "ligue": "PARIS (19)",
+      "dpt": "75",
+      "club": "PARIS COUNTRY CLUB (S.A.)",
+      "competition": "Tournoi open PARIS COUNTRY CLUB (S.A.)",
+      "codePostal": "92500",
+      "ville": "RUEIL-MALMAISON",
+      "debut": "01/12/12",
+      "fin": "21/12/12",
+      "inscription": {
+         "enLigne": "Non",
+         "responsable": "TETAR PATRICK",
+         "adresse": "121, Rue du Lt Col de Montbrison\n\n92500 RUEIL MALMAISON",
+         "telBureau": "",
+         "telDomicile": "",
+         "telMobile": "06.86.36.56.07",
+         "fax": "",
+         "email": ""
+      },
+      "installations": {
+         "adresse": "A.S.PARIS COUNTRY CLUB\n\n121, Rue du Lt Col de Montbrison\n\n92500 RUEIL-MALMAISON",
+         "surfaces": "1 B�ton poreux"
+      },
+      "epreuves": [
+         {
+            "nom": "Simple Dames 11/12 ans",
+            "nature": "Simple Dames",
+            "categorie": "11/12 ans",
+            "classement": "Open",
+            "debut": "01/12/12",
+            "fin": "21/12/12",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "18,00"
+         },
+         {
+            "nom": "Simple Dames 13/14 ans",
+            "nature": "Simple Dames",
+            "categorie": "13/14 ans",
+            "classement": "Open",
+            "debut": "01/12/12",
+            "fin": "21/12/12",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "18,00"
+         },
+         {
+            "nom": "Simple Dames 15/16 ans",
+            "nature": "Simple Dames",
+            "categorie": "15/16 ans",
+            "classement": "Open",
+            "debut": "01/12/12",
+            "fin": "21/12/12",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "18,00"
+         },
+         {
+            "nom": "Simple Messieurs 9/10 ans",
+            "nature": "Simple Messieurs",
+            "categorie": "9/10 ans",
+            "classement": "Open",
+            "debut": "01/12/12",
+            "fin": "21/12/12",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "18,00"
+         },
+         {
+            "nom": "Simple Messieurs 11/12 ans",
+            "nature": "Simple Messieurs",
+            "categorie": "11/12 ans",
+            "classement": "Open",
+            "debut": "01/12/12",
+            "fin": "21/12/12",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "18,00"
+         },
+         {
+            "nom": "Simple Messieurs 13/14 ans",
+            "nature": "Simple Messieurs",
+            "categorie": "13/14 ans",
+            "classement": "Open",
+            "debut": "01/12/12",
+            "fin": "21/12/12",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "18,00"
+         },
+         {
+            "nom": "Simple Messieurs 15/16 ans",
+            "nature": "Simple Messieurs",
+            "categorie": "15/16 ans",
+            "classement": "Open",
+            "debut": "01/12/12",
+            "fin": "21/12/12",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "18,00"
+         }
+      ]
+   },
+   {
+      "hoi_iid": "82016253",
+      "inscriptionEnLigne": false,
+      "resultatsConsultables": false,
+      "programmePubliable": false,
+      "annee_sportive": "2013",
+      "ligue": "PARIS (19)",
+      "dpt": "75",
+      "club": "TENNIS CLUB DE PARIS",
+      "competition": "Tournoi open TENNIS CLUB DE PARIS",
+      "codePostal": "75016",
+      "ville": "PARIS",
+      "debut": "22/12/12",
+      "fin": "06/01/13",
+      "inscription": {
+         "enLigne": "Non",
+         "responsable": "TCP ",
+         "adresse": "15, Avenue F�lix d&#39;H�relle\n\n75016 PARIS",
+         "telBureau": "01.46.47.73.90",
+         "telDomicile": "",
+         "telMobile": "",
+         "fax": "",
+         "email": ""
+      },
+      "installations": {
+         "adresse": "TENNIS CLUB DE PARIS\n\n15 av.felix d&#39;herelle\n\n75016 PARIS",
+         "surfaces": "1 R�sine"
+      },
+      "epreuves": [
+         {
+            "nom": "Simple Dames Senior",
+            "nature": "Simple Dames",
+            "categorie": "Senior",
+            "classement": "Open",
+            "debut": "22/12/12",
+            "fin": "06/01/13",
+            "tarifAdulte": "24,00",
+            "tarifJeune": "18,00"
+         },
+         {
+            "nom": "Simple Messieurs Senior",
+            "nature": "Simple Messieurs",
+            "categorie": "Senior",
+            "classement": "Open",
+            "debut": "22/12/12",
+            "fin": "06/01/13",
+            "tarifAdulte": "24,00",
+            "tarifJeune": "18,00"
+         }
+      ]
+   },
+   {
+      "hoi_iid": "82017339",
+      "inscriptionEnLigne": false,
+      "resultatsConsultables": false,
+      "programmePubliable": false,
+      "annee_sportive": "2013",
+      "ligue": "PARIS (19)",
+      "dpt": "75",
+      "club": "PARIS JEAN BOUIN",
+      "competition": "Tournoi open PARIS JEAN BOUIN",
+      "codePostal": "75016",
+      "ville": "PARIS",
+      "debut": "22/12/12",
+      "fin": "06/01/13",
+      "inscription": {
+         "enLigne": "Non",
+         "responsable": "PARIS JEAN BOUIN TOURNOIS DE NOEL",
+         "adresse": "26, avenue du G�n�ral Sarrail\n\n75116 PARIS",
+         "telBureau": "",
+         "telDomicile": "",
+         "telMobile": "",
+         "fax": "",
+         "email": ""
+      },
+      "installations": {
+         "adresse": "PARIS JEAN BOUIN\n\n26, av. du general sarrail\n\n75016 PARIS",
+         "surfaces": "1 R�sine\n4 Terre battue traditionnelle"
+      },
+      "epreuves": [
+         {
+            "nom": "Simple Dames 9 ans",
+            "nature": "Simple Dames",
+            "categorie": "9 ans",
+            "classement": "Open",
+            "debut": "22/12/12",
+            "fin": "06/01/13",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "20,00"
+         },
+         {
+            "nom": "Simple Dames 10 ans",
+            "nature": "Simple Dames",
+            "categorie": "10 ans",
+            "classement": "Open",
+            "debut": "22/12/12",
+            "fin": "06/01/13",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "20,00"
+         },
+         {
+            "nom": "Simple Dames 9/10 ans",
+            "nature": "Simple Dames",
+            "categorie": "9/10 ans",
+            "classement": "Open",
+            "debut": "22/12/12",
+            "fin": "06/01/13",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "20,00"
+         },
+         {
+            "nom": "Simple Dames 11/12 ans",
+            "nature": "Simple Dames",
+            "categorie": "11/12 ans",
+            "classement": "Open",
+            "debut": "22/12/12",
+            "fin": "06/01/13",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "20,00"
+         },
+         {
+            "nom": "Simple Dames 13/14 ans",
+            "nature": "Simple Dames",
+            "categorie": "13/14 ans",
+            "classement": "Open",
+            "debut": "22/12/12",
+            "fin": "06/01/13",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "20,00"
+         },
+         {
+            "nom": "Simple Messieurs 9 ans",
+            "nature": "Simple Messieurs",
+            "categorie": "9 ans",
+            "classement": "Open",
+            "debut": "22/12/12",
+            "fin": "06/01/13",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "20,00"
+         },
+         {
+            "nom": "Simple Messieurs 10 ans",
+            "nature": "Simple Messieurs",
+            "categorie": "10 ans",
+            "classement": "Open",
+            "debut": "22/12/12",
+            "fin": "06/01/13",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "20,00"
+         },
+         {
+            "nom": "Simple Messieurs 9/10 ans",
+            "nature": "Simple Messieurs",
+            "categorie": "9/10 ans",
+            "classement": "Open",
+            "debut": "22/12/12",
+            "fin": "06/01/13",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "20,00"
+         },
+         {
+            "nom": "Simple Messieurs 11 ans",
+            "nature": "Simple Messieurs",
+            "categorie": "11 ans",
+            "classement": "Open",
+            "debut": "22/12/12",
+            "fin": "06/01/13",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "20,00"
+         },
+         {
+            "nom": "Simple Messieurs 12 ans",
+            "nature": "Simple Messieurs",
+            "categorie": "12 ans",
+            "classement": "Open",
+            "debut": "22/12/12",
+            "fin": "06/01/13",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "20,00"
+         },
+         {
+            "nom": "Simple Messieurs 13/14 ans",
+            "nature": "Simple Messieurs",
+            "categorie": "13/14 ans",
+            "classement": "Open",
+            "debut": "22/12/12",
+            "fin": "06/01/13",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "20,00"
+         }
+      ]
+   },
+   {
+      "hoi_iid": "82017343",
+      "inscriptionEnLigne": false,
+      "resultatsConsultables": false,
+      "programmePubliable": false,
+      "annee_sportive": "2013",
+      "ligue": "PARIS (19)",
+      "dpt": "75",
+      "club": "PARIS JEAN BOUIN",
+      "competition": "Tournoi inter-r�gional Cadet Paris Jean Bouin",
+      "codePostal": "75016",
+      "ville": "PARIS",
+      "debut": "22/12/12",
+      "fin": "06/01/13",
+      "inscription": {
+         "enLigne": "Non",
+         "responsable": "PARIS JEAN BOUIN TOURNOI INTER REGIONAL CADET",
+         "adresse": "26, avenue du G�n�ral Sarrail\n\n75116 PARIS",
+         "telBureau": "",
+         "telDomicile": "",
+         "telMobile": "",
+         "fax": "",
+         "email": ""
+      },
+      "installations": {
+         "adresse": "PARIS JEAN BOUIN\n\n26, av. du general sarrail\n\n75016 PARIS",
+         "surfaces": "2 R�sine\n3 Terre battue traditionnelle"
+      },
+      "epreuves": [
+         {
+            "nom": "Simple Dames 15/16 ans",
+            "nature": "Simple Dames",
+            "categorie": "15/16 ans",
+            "classement": "30 &gt; -30",
+            "debut": "22/12/12",
+            "fin": "06/01/13",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "20,00"
+         },
+         {
+            "nom": "Simple Messieurs 15/16 ans",
+            "nature": "Simple Messieurs",
+            "categorie": "15/16 ans",
+            "classement": "30 &gt; -30",
+            "debut": "22/12/12",
+            "fin": "06/01/13",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "20,00"
+         }
+      ]
+   },
+   {
+      "hoi_iid": "82017586",
+      "inscriptionEnLigne": true,
+      "resultatsConsultables": false,
+      "programmePubliable": false,
+      "annee_sportive": "2013",
+      "ligue": "PARIS (19)",
+      "dpt": "75",
+      "club": "TENNIS COMPETITION/CFD",
+      "competition": "Tournoi open TENNIS COMPETITION/CFD",
+      "codePostal": "94800",
+      "ville": "VILLEJUIF",
+      "debut": "22/12/12",
+      "fin": "12/01/13",
+      "inscription": {
+         "enLigne": "",
+         "responsable": "CFDTC tournoi open noel",
+         "adresse": "116 rue edouard vaillant\n\n94800 villjuif",
+         "telBureau": "",
+         "telDomicile": "",
+         "telMobile": "",
+         "fax": "",
+         "email": ""
+      },
+      "installations": {
+         "adresse": "CFD TENNIS COMPETITION\n\n116, Rue Edouard Vaillant\n\n94800 VILLEJUIF",
+         "surfaces": "3 Moquette (avec ou sans mat�riaux libres)"
+      },
+      "epreuves": [
+         {
+            "nom": "Simple Dames 9/10 ans",
+            "nature": "Simple Dames",
+            "categorie": "9/10 ans",
+            "classement": "Open",
+            "debut": "22/12/12",
+            "fin": "12/01/13",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "18,00"
+         },
+         {
+            "nom": "Simple Dames 11/12 ans",
+            "nature": "Simple Dames",
+            "categorie": "11/12 ans",
+            "classement": "Open",
+            "debut": "22/12/12",
+            "fin": "12/01/13",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "18,00"
+         },
+         {
+            "nom": "Simple Dames 13/14 ans",
+            "nature": "Simple Dames",
+            "categorie": "13/14 ans",
+            "classement": "Open",
+            "debut": "22/12/12",
+            "fin": "12/01/13",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "18,00"
+         },
+         {
+            "nom": "Simple Dames 15/16 ans",
+            "nature": "Simple Dames",
+            "categorie": "15/16 ans",
+            "classement": "Open",
+            "debut": "22/12/12",
+            "fin": "12/01/13",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "18,00"
+         },
+         {
+            "nom": "Simple Dames 17/18 ans",
+            "nature": "Simple Dames",
+            "categorie": "17/18 ans",
+            "classement": "Open",
+            "debut": "22/12/12",
+            "fin": "12/01/13",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "18,00"
+         },
+         {
+            "nom": "Simple Dames Senior",
+            "nature": "Simple Dames",
+            "categorie": "Senior",
+            "classement": "Open",
+            "debut": "22/12/12",
+            "fin": "12/01/13",
+            "tarifAdulte": "25,00",
+            "tarifJeune": "20,00"
+         },
+         {
+            "nom": "Simple Messieurs 9/10 ans",
+            "nature": "Simple Messieurs",
+            "categorie": "9/10 ans",
+            "classement": "Open",
+            "debut": "22/12/12",
+            "fin": "12/01/13",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "18,00"
+         },
+         {
+            "nom": "Simple Messieurs 11/12 ans",
+            "nature": "Simple Messieurs",
+            "categorie": "11/12 ans",
+            "classement": "Open",
+            "debut": "22/12/12",
+            "fin": "12/01/13",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "18,00"
+         },
+         {
+            "nom": "Simple Messieurs 13/14 ans",
+            "nature": "Simple Messieurs",
+            "categorie": "13/14 ans",
+            "classement": "Open",
+            "debut": "22/12/12",
+            "fin": "12/01/13",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "18,00"
+         },
+         {
+            "nom": "Simple Messieurs 15/16 ans",
+            "nature": "Simple Messieurs",
+            "categorie": "15/16 ans",
+            "classement": "Open",
+            "debut": "22/12/12",
+            "fin": "12/01/13",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "18,00"
+         },
+         {
+            "nom": "Simple Messieurs 17/18 ans",
+            "nature": "Simple Messieurs",
+            "categorie": "17/18 ans",
+            "classement": "Open",
+            "debut": "22/12/12",
+            "fin": "12/01/13",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "18,00"
+         },
+         {
+            "nom": "Simple Messieurs Senior",
+            "nature": "Simple Messieurs",
+            "categorie": "Senior",
+            "classement": "Open",
+            "debut": "22/12/12",
+            "fin": "12/01/13",
+            "tarifAdulte": "25,00",
+            "tarifJeune": "20,00"
+         }
+      ]
+   },
+   {
+      "hoi_iid": "82016871",
+      "inscriptionEnLigne": false,
+      "resultatsConsultables": false,
+      "programmePubliable": false,
+      "annee_sportive": "2013",
+      "ligue": "PARIS (19)",
+      "dpt": "75",
+      "club": "VINCENNES C.A.",
+      "competition": "VINCENNES C.A.",
+      "codePostal": "75012",
+      "ville": "PARIS",
+      "debut": "23/12/12",
+      "fin": "06/01/13",
+      "inscription": {
+         "enLigne": "Non",
+         "responsable": "cav tournoi de jeunes noel",
+         "adresse": "Route de la Pyramide\n\nStade Jean Mermoz\n\n75012 PARIS",
+         "telBureau": "09.67.08.19.86",
+         "telDomicile": "",
+         "telMobile": "",
+         "fax": "",
+         "email": "direction@cavincennes.fr"
+      },
+      "installations": {
+         "adresse": "Rte de la pyramide\n\nStade Jean Mermoz\n\n75012 PARIS",
+         "surfaces": "3 Terre battue traditionnelle\n1 Terre battue traditionnelle"
+      },
+      "epreuves": [
+         {
+            "nom": "Simple Dames 9/10 ans",
+            "nature": "Simple Dames",
+            "categorie": "9/10 ans",
+            "classement": "Open",
+            "debut": "23/12/12",
+            "fin": "06/01/13",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "17,00"
+         },
+         {
+            "nom": "Simple Dames 11/12 ans",
+            "nature": "Simple Dames",
+            "categorie": "11/12 ans",
+            "classement": "Open",
+            "debut": "23/12/12",
+            "fin": "06/01/13",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "17,00"
+         },
+         {
+            "nom": "Simple Messieurs 9/10 ans",
+            "nature": "Simple Messieurs",
+            "categorie": "9/10 ans",
+            "classement": "Open",
+            "debut": "23/12/12",
+            "fin": "06/01/13",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "17,00"
+         },
+         {
+            "nom": "Simple Messieurs 11/12 ans",
+            "nature": "Simple Messieurs",
+            "categorie": "11/12 ans",
+            "classement": "Open",
+            "debut": "23/12/12",
+            "fin": "06/01/13",
+            "tarifAdulte": "0,00",
+            "tarifJeune": "17,00"
+         }
+      ]
+   }
+]

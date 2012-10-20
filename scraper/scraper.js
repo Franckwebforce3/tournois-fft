@@ -1,8 +1,8 @@
 
-var request = require('request');
-var htmlparser = require("htmlparser");
-var async = require("async");
-
+var request = require('request'),
+    htmlparser = require("htmlparser"),
+    async = require("async"),
+    fs = require('fs');
 
 // <select name="lig_cno_3" onchange="onChangeLigue(this, 'cod_cno_3');"><option value="">Aucun</option><option value="01">ALSACE</option><option value="03">AUVERGNE</option><option value="04">BOURGOGNE</option><option value="05">BRETAGNE</option><option value="09">C.B.B.L.</option><option value="06">CENTRE</option><option value="07">CHAMPAGNE</option><option value="30">CORSE</option><option value="08">COTE D&#39;AZUR</option><option value="10">DAUPHINE SAVOIE</option><option value="31">ESSONNE</option><option value="99">FEDERATION FRANCAISE DE TENNIS</option><option value="11">FLANDRES</option><option value="12">FRANCHE COMTE</option><option value="28">GUADELOUPE</option><option value="25">GUYANE</option><option value="13">GUYENNE</option><option value="32">HAUTS DE SEINE</option><option value="14">LANGUEDOC ROUSSILLON</option><option value="15">LIMOUSIN</option><option value="16">LORRAINE</option><option value="17">LYONNAIS</option><option value="29">MARTINIQUE</option><option value="23">MIDI PYRENEES</option><option value="18">NORMANDIE</option><option value="24">NOUVELLE CALEDONIE</option><option value="19">PARIS</option><option value="02">PAYS DE LA LOIRE</option><option value="20">PICARDIE</option><option value="21">POITOU CHARENTES</option><option value="27">POLYNESIE</option><option value="22">PROVENCE</option><option value="26">REUNION</option><option value="37">SEINE ET MARNE</option><option value="33">SEINE ST DENIS</option><option value="35">VAL D&#39;OISE</option><option value="34">VAL DE MARNE</option><option value="38">YVELINES</option><option value="00">Z-DIVERS FFT</option></select></select>
 
@@ -61,8 +61,7 @@ function searchTournaments(lig_cno_1) {
                }, function() {
                   console.log("terminé !");
                   
-                  console.log( JSON.stringify(tournois, null, 3) );
-                  
+                  fs.writeFileSync("tournois.json", JSON.stringify(tournois, null, 3) );
                });
                
          	}
@@ -213,13 +212,10 @@ function parseTournamentPage(dom) {
       installations: installations,
       epreuves: epreuves
    };
-
-   //console.log( JSON.stringify(tournament, null, 3) );
    
    return tournament;
 }
 
-//fetchTournament("82016871");
 
 
 
