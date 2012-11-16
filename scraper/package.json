@@ -7,8 +7,9 @@
         "node" : ">=0.8.0"
     },
     "dependencies": {
-		"request": "2.11.4",
-		"htmlparser": "1.7.6",
-		"async": "0.1.22"
+        "request": "2.11.4",
+        "htmlparser": "1.7.6",
+        "async": "0.1.22",
+        "iconv": "1.2.4"
     }
 }
