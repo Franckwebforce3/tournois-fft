@@ -26,7 +26,7 @@ function location_for(address, cb) {
    request({
       qs: {
          sensor: true,
-         address: address+', France'
+         address: address
       },
       method: 'GET',
       url: 'http://maps.googleapis.com/maps/api/geocode/json'
