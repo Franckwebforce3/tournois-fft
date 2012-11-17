@@ -42,6 +42,7 @@ function location_for(address, cb) {
                console.log({});
                cb(null, {});
             }, 5000);
+            return;
          }
 
          if (ret.results.length > 0) {
