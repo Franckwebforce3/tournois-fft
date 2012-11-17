@@ -1,124 +1,165 @@
 
+var TournoiFinder = {
 
-/*
-var groupMarkers = {};
-
-var openedMarker = null;
-
-  function addMarker(group, open) {
-      if( groupMarkers[group.id] ) return;
-      
-      var contentString = '<h3><a href="/admin/groupadmin/general?group_id='+group.id+'" target="_new">'+group.name+'</a></h3>'+
-                          group.address+'<br />'+
-                          group.zipcode+' '+group.city+'<br />';
-      
-      var myLatlng = new google.maps.LatLng(group.lat,group.lng);
-
-      var infowindow = new google.maps.InfoWindow({
-          content: contentString
-      });
-      
-      var image;
-      if(open) {
-        image = new google.maps.MarkerImage('https://code.google.com/intl/fr-FR/apis/maps/documentation/javascript/examples/images/beachflag.png',
-             // This marker is 20 pixels wide by 32 pixels tall.
-             new google.maps.Size(20, 32),
-             // The origin for this image is 0,0.
-             new google.maps.Point(0,0),
-             // The anchor for this image is the base of the flagpole at 0,32.
-             new google.maps.Point(0, 32));
-        
-      }
-
-      var marker = new google.maps.Marker({
-          position: myLatlng,
-          map: map,
-          icon: image,
-          title: group.name
-      });
-      google.maps.event.addListener(marker, 'click', function() {
-        if(openedMarker) {
-          openedMarker.close();
-        }
-        infowindow.open(map,marker);
-        openedMarker = infowindow;
-      });
-      
-      if(open) {
-        infowindow.open(map,marker);
-        openedMarker = infowindow;
-      }
-      
-      groupMarkers[group.id] = marker;
-  };
-  
-  function queryVisibleGroups() {
-    var bounds = map.getBounds(),
-        ne = bounds.getNorthEast(),
-        sw = bounds.getSouthWest();
-    
-    
-    YAHOO.util.Dom.get('loadIndicator').style.display = '';
-            
-      var groups = o.records;
-      var content = "";
-      for(var i = 0 ; i < groups.length ; i++) {
-        var group = groups[i];
-        addMarker(group);
-        content += "<h4>"+group.name+"</h4>";
-      }
-      YAHOO.util.Dom.get('listContent').innerHTML = content;
-      
-      YAHOO.util.Dom.get('loadIndicator').style.display = 'none';
-  };
-  
-  function clearMarkers() {
-    groupMarkers
-    for (i in groupMarkers) {
-      if(i != "<%= @group.id %>")
-          groupMarkers[i].setMap(null);
-      }
-  }
-*/
-
-YUI().use('node', 'event', 'io', 'json', function (Y) {
-
-  var map;
-
-    var myLatlng = new google.maps.LatLng("48.841334", "2.4185184");
-    var myOptions = {
-      zoom: 15,
-      center: myLatlng,
-      mapTypeId: google.maps.MapTypeId.ROADMAP
-    }
-    map = new google.maps.Map(document.getElementById("map_canvas"), myOptions);
-    
-    //addMarker(<%= @group.to_json %>, true);
-        
-    /*google.maps.event.addListener(map, 'zoom_changed', queryVisibleGroups);
-    google.maps.event.addListener(map, 'dragend', queryVisibleGroups);*/
-        
-    /*setTimeout(function() {
-      queryVisibleGroups();
-    }, 1000);
-        
-        
-    YAHOO.util.Event.addListener('activitySelect', 'change', function() {
-      clearMarkers();
-      queryVisibleGroups();
-    });*/
-
-  Y.io('scraper/tournois.json', {
-    method: 'GET',
-    headers: {
-        'Content-Type': 'application/json',
+    init: function () {
+        this.preferences = {
+            categorie: "Senior",
+            classement: "NC",
+            nature: "Simple Messieurs"
+        };
+        this.initEvents();
+        this.createMap();
+        this.getTournois();
     },
-    on: {
-        complete: function(id, o) {
-          var tournois = Y.JSON.parse(o.responseText);
-          console.log(tournois);
-        }
-    }
-  });
 
+    initEvents: function() {
+        var that = this;
+        $('#preferences-form').submit(function() {
+            that.onPreferencesSubmit();
+            return false;
+        });
+    },
+
+    onPreferencesSubmit: function() {
+        var data = $('#preferences-form').serializeArray();
+        for(var i = 0 ; i < data.length; i++) {
+            this.preferences[data[i].name] = data[i].value;
+        }
+        // TODO: redirect to map
+        $('.nav-tabs a[href=#tab-map]').tab('show') ;
+        this.onMapChanged();
+    },
+
+    filterPreferences: function(tournois) {
+        var results = [];
+        // TODO: classement !
+        for(var i = 0 ; i < tournois.length ; i++) {
+            var tournoi = tournois[i];
+            for(var j = 0 ; j < tournoi.epreuves.length; j++) {
+                if(tournoi.epreuves[j].categorie == this.preferences.categorie && tournoi.epreuves[j].nature == this.preferences.nature) {
+                    results.push(tournois[i]);
+                    break;
+                }
+            }
+        }
+
+        return results;
+    },
+
+    createMap: function () {
+        this.markers = [];
+        this.center = new google.maps.LatLng("48.841334", "2.3185184");
+        this.map = new google.maps.Map(document.getElementById("map_canvas"), {
+            zoom: 12,
+            center: this.center,
+            mapTypeId: google.maps.MapTypeId.ROADMAP
+        });
+        var that = this;
+        var mapChanged = function() {
+            that.center = that.map.getCenter();
+            that.onMapChanged();
+        };
+        google.maps.event.addListener(this.map, 'zoom_changed', mapChanged);
+        google.maps.event.addListener(this.map, 'dragend', mapChanged);
+    },
+
+    onMapChanged: function() {
+        var bounds = this.map.getBounds();
+
+        // Filter visibles
+        var tournois = this.filterByBounds(bounds, this.filterPreferences(this.tournois) );
+
+        // Display markers
+        this.clearMarkers();
+        for(var i = 0 ; i < tournois.length ; i++) {
+            this.addMarker(tournois[i]);
+        }
+    },
+
+    filterByBounds: function(bounds, tournois) {
+        var results = [];
+
+        var ne = bounds.getNorthEast(),
+            sw = bounds.getSouthWest();
+        for(var i = 0 ; i < tournois.length ; i++) {
+            var loc = tournois[i].location;
+            if (loc.lat) {
+                var maxLat = Math.max(sw.lat(), ne.lat()),
+                    minLat = Math.min(sw.lat(), ne.lat()),
+                    maxLng = Math.max(sw.lng(), ne.lng()),
+                    minLng = Math.min(sw.lng(), ne.lng())
+
+                if (loc.lat > minLat && loc.lat < maxLat && 
+                    loc.lng > minLng && loc.lng < maxLng ) {
+                    results.push(tournois[i]);
+                }
+            }
+        }
+        return results;
+    },
+
+    addMarker: function (tournoi) {
+        //console.log(tournoi);
+
+        var myLatlng = new google.maps.LatLng(tournoi.location.lat,tournoi.location.lng);
+
+        var marker = new google.maps.Marker({
+            position: myLatlng,
+            map: this.map,
+            //icon: image,
+            title: tournoi.club
+        });
+
+        var infowindow = new google.maps.InfoWindow({
+          content: tournoi.club+"<br /><a href='http://www.ei.applipub-fft.fr/eipublic/competition.do?dispatch=afficher&hoi_iid="+tournoi.hoi_iid+"' target='_new'>"+tournoi.competition+"</a><br />du "+tournoi.debut+" au "+tournoi.fin
+        });
+
+        var that = this;
+        google.maps.event.addListener(marker, 'click', function() {
+            if(that.openedMarker) {
+                that.openedMarker.close();
+            }
+            infowindow.open(that.map,marker);
+            that.openedMarker = infowindow;
+        });
+
+        this.markers.push(marker);
+    },
+
+    /*mapClick: function() {
+        var that = this;
+        setTimeout(function() {
+            google.maps.event.trigger(that.map, "resize");
+            that.map.setCenter(that.center);
+            that.onMapChanged();
+        }, 100);
+    },*/
+
+    getTournois: function () {
+        var that = this;
+        $.ajax({
+            url: "scraper/tournois_with_location.json",
+            dataTypeString: "json"
+        }).done(function(tournois) {
+            that.tournois = tournois;
+
+            setTimeout(function() {
+                that.onMapChanged();
+            }, 1000);
+        });
+    },
+
+    clearMarkers: function() {
+        for(var i = 0 ; i < this.markers.length; i++) {
+          this.markers[i].setMap(null);
+          delete this.markers[i];
+        }
+        this.markers = [];
+    }
+
+
+};
+
+$(document).ready(function(){
+    TournoiFinder.init();
 });
