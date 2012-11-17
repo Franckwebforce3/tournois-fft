@@ -1,5 +1,8 @@
 {
-   "Stade Roland Garros, 2 avenue Gordon Bennett, 75016 PARIS 16": {},
+   "Stade Roland Garros, 2 avenue Gordon Bennett, 75016 PARIS 16": {
+      "lat": 48.774564,
+      "lng": 2.462159
+      },
    "Centre de Tennis de Haute Alsace, Rue arthur Ashe, 68350 BRUNSTATT": {
       "lat": 47.725326,
       "lng": 7.316038
