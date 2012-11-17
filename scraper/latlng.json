@@ -2970,7 +2970,10 @@
       "lat": 44.2038169,
       "lng": -1.2729518
    },
-   "Avenue Germinal, 40160 PARENTIS-EN-BORN": {},
+   "Avenue Germinal, 40160 PARENTIS-EN-BORN": {
+      "lat": 44.35429,
+      "lng": -1.0714903
+   },
    "Plaine des Sports, 64210 BIDART": {
       "lat": 43.439236,
       "lng": -1.590062
@@ -4160,7 +4163,10 @@
       "lat": 50.395416,
       "lng": 3.669777
    },
-   "Salle de Tennis, Chemein de la Ouesnoy, 62810 AVESNES LE COMTE": {},
+   "Salle de Tennis, Chemein de la Ouesnoy, 62810 AVESNES LE COMTE": {
+      "lat": 50.278358,
+      "lng": 2.530471
+   },
    "Centre Sportif, 81 Allée Georges Delfosse, 59130 LAMBERSART": {
       "lat": 50.6473964,
       "lng": 3.0337755
@@ -6487,7 +6493,10 @@
       "lat": 45.4802922,
       "lng": 4.4384295
    },
-   "Rue Marcel Gonzalès, 69740 GENAS": {},
+   "Rue Marcel Gonzalès, 69740 GENAS": {
+      "lat": 45.72766850000001,
+      "lng": 5.0128355
+   },
    "Zone des Gravelles, 01120 LA BOISSE": {
       "lat": 45.842492,
       "lng": 5.032719
@@ -6572,7 +6581,10 @@
       "lat": 46.219615,
       "lng": 4.99247
    },
-   "Stade F. Paye, 01700 NEYRON": {},
+   "Stade F. Paye, 01700 NEYRON": {
+      "lat": 45.814721,
+      "lng": 4.9325279
+   },
    "Stade E.Mercier, 42680 SAINT MARCELLIN EN FOREZ": {
       "lat": 45.497451,
       "lng": 4.16686
@@ -6749,7 +6761,10 @@
       "lat": 45.77677,
       "lng": 4.553561
    },
-   "Chemin des Rivières, 69370 SAINT DIDIER AU MONT D OR": {},
+   "Chemin des Rivières, 69370 SAINT DIDIER AU MONT D OR": {
+      "lat": 45.7976545,
+      "lng": 4.7985264
+   },
    "Le Stade, 01310 POLLIAT": {
       "lat": 46.2507002,
       "lng": 5.1264439
@@ -7127,7 +7142,10 @@
       "lat": 49.7898208,
       "lng": 1.0089325
    },
-   "1 rue Léon Blum, 76270 NEUFCHATEL EN BRAY": {},
+   "1 rue Léon Blum, 76270 NEUFCHATEL EN BRAY": {
+      "lat": 49.732771,
+      "lng": 1.441891
+   },
    "88 av de la plage, 14150 OUISTREHAM": {
       "lat": 49.284581,
       "lng": -0.2550519
@@ -7929,7 +7947,10 @@
       "lat": 43.29218,
       "lng": 5.569336000000001
    },
-   "Parc Club Arbois, Rte Departementale 543, 13480 CABRIES": {},
+   "Parc Club Arbois, Rte Departementale 543, 13480 CABRIES": {
+      "lat": 43.441195,
+      "lng": 5.379989999999999
+   },
    "STADE MUNICIPAL, avenue Léo Lagrange, 13410 LAMBESC": {
       "lat": 43.6482534,
       "lng": 5.2675306
@@ -8285,7 +8306,10 @@
       "lat": 43.4209117,
       "lng": 5.600486099999999
    },
-   "stade, 84460 CHEVAL-BLANC": {},
+   "stade, 84460 CHEVAL-BLANC": {
+      "lat": 43.8363752,
+      "lng": 5.095726
+   },
    "83 Bd du Redon, 13009 MARSEILLE": {
       "lat": 43.25379909999999,
       "lng": 5.4213098
@@ -8884,7 +8908,10 @@
       "lat": 48.688831,
       "lng": 2.1866017
    },
-   "Rue du Beau regard, 91860 EPINAY SOUS SENART": {},
+   "Rue du Beau regard, 91860 EPINAY SOUS SENART": {
+      "lat": 48.6942172,
+      "lng": 2.5208867
+   },
    "stade municipal, 43 rue de la justice, 91230 MONTGERON": {
       "lat": 48.69806250000001,
       "lng": 2.4513142
@@ -9074,7 +9101,10 @@
       "lat": 48.81770299999999,
       "lng": 2.3027436
    },
-   "3/5 ter rue Lucien Jeannin, 92250 LA GARENNE COLOMBES": {},
+   "3/5 ter rue Lucien Jeannin, 92250 LA GARENNE COLOMBES": {
+      "lat": 48.9058348,
+      "lng": 2.2429457
+   },
    "Accès 32 rue Romain Rolland, 93600 AULNAY SOUS BOIS": {
       "lat": 48.9177093,
       "lng": 2.4913133
@@ -9373,7 +9403,10 @@
       "lng": 2.2181923
    },
    "complexe Maurice Bacquet, allee du 5 décembre 1962- BP 316, 95696 GOUSSAINVILLE cedex": {},
-   "48, av. jules siegfried, 95130 LE PLESSIS BOUCHARD": {},
+   "48, av. jules siegfried, 95130 LE PLESSIS BOUCHARD": {
+      "lat": 49.00369320000001,
+      "lng": 2.2443437
+   },
    "chemin du valmillon, 95690 NESLES LA VALLEE": {
       "lat": 49.137306,
       "lng": 2.177219
@@ -9654,7 +9687,10 @@
       "lat": 48.79734300000001,
       "lng": 2.705341
    },
-   "allee des tilleuls, 77124 CHAUCONIN NEUFMONTIERS": {},
+   "allee des tilleuls, 77124 CHAUCONIN NEUFMONTIERS": {
+      "lat": 48.9750573,
+      "lng": 2.8365019
+   },
    "13 bis allée des 2 châteaux, 77600 BUSSY ST GEORGES": {
       "lat": 48.8393664,
       "lng": 2.7014108
@@ -9856,7 +9892,10 @@
       "lat": 48.892724,
       "lng": 2.1094818
    },
-   "Rue de la Libération, 78660 ABLIS": {},
+   "Rue de la Libération, 78660 ABLIS": {
+      "lat": 48.513489,
+      "lng": 1.833675
+   },
    "Chemin des Tennis, Mairie de Mareil, 78124 MAREIL SUR MAULDRE": {
       "lat": 48.893319,
       "lng": 1.871793
@@ -10159,7 +10198,10 @@
       "lat": 45.525587,
       "lng": 4.874339
    },
-   "mairie, 38790 SAINT GEORGES D'ESPERANCHE": {},
+   "mairie, 38790 SAINT GEORGES D'ESPERANCHE": {
+      "lat": 45.5562899,
+      "lng": 5.0791962
+   },
    "Place Alliende Neruda, 07150 VALLON PONT D'ARC": {
       "lat": 44.4057292,
       "lng": 4.3895696
@@ -10331,7 +10373,10 @@
       "lng": 3.4237
    },
    "avenue de l'hermione, 30240 PORT CAMARGUE": {},
-   "avenue de l'aviation, 66250 SAINT LAURENT SALANQUE": {},
+   "avenue de l'aviation, 66250 SAINT LAURENT SALANQUE": {
+      "lat": 42.787749,
+      "lng": 2.994656
+   },
    "bois d'andrieu, route de brignac, 34800 CANET": {
       "lat": 43.6066975,
       "lng": 3.4862145
@@ -10762,7 +10807,10 @@
       "lat": 48.1881237,
       "lng": 0.6451043
    },
-   " les graviers, 63530 ENVAL": {},
+   " les graviers, 63530 ENVAL": {
+      "lat": 45.893546,
+      "lng": 3.055203
+   },
    " 69 rue des Grands Chemins, 22440 PLOUFRAGAN": {
       "lat": 48.48313719999999,
       "lng": -2.809452
@@ -11054,7 +11102,10 @@
       "lat": 43.914706,
       "lng": 5.921487
    },
-   " Quartier St Sauveur, 13270 Fos sur Mer": {},
+   " Quartier St Sauveur, 13270 Fos sur Mer": {
+      "lat": 43.4745483,
+      "lng": 4.914323899999999
+   },
    "Les Hélianthes,  13390 AURIOL": {
       "lat": 43.357755,
       "lng": 5.666897000000001
