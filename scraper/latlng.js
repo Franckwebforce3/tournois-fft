@@ -36,6 +36,14 @@ function location_for(address, cb) {
          var ret = JSON.parse(body);
          var r;
 
+         if(ret.status == "OVER_QUERY_LIMIT") {
+            setTimeout(function() {
+               latlng[address] = {};
+               console.log({});
+               cb(null, {});
+            }, 5000);
+         }
+
          if (ret.results.length > 0) {
             r = ret.results[0].geometry.location;
          }
