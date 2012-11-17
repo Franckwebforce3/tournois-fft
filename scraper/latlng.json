@@ -702,7 +702,10 @@
       "lng": -1.4204367
    },
    "Route de Brain, Stade la Bohalle, 49800 LA BOHALLE": {},
-   "Complexe sportif de la Papinière, 44240 SUCE SUR ERDRE": {},
+   "Complexe sportif de la Papinière, 44240 SUCE SUR ERDRE": {
+      "lat": 47.340424,
+      "lng": -1.526117
+   },
    "Bd des Poilus, La Noë Lambert, 44300 NANTES": {
       "lat": 47.2300237,
       "lng": -1.5282579
@@ -731,9 +734,18 @@
       "lat": 47.53128299999999,
       "lng": -0.568877
    },
-   "Rue St Gilles, 49124 LE PLESSIS GRAMMOIRE": {},
-   "Route de Beaulieu, 85150 LANDERONDE": {},
-   "Parc des Sports, 85430 NIEUL LE DOLENT": {},
+   "Rue St Gilles, 49124 LE PLESSIS GRAMMOIRE": {
+      "lat": 47.4970437,
+      "lng": -0.4302257
+   },
+   "Route de Beaulieu, 85150 LANDERONDE": {
+      "lat": 46.658886,
+      "lng": -1.571227
+   },
+   "Parc des Sports, 85430 NIEUL LE DOLENT": {
+      "lat": 46.574025,
+      "lng": -1.508986
+   },
    "72800 AUBIGNE RACAN": {
       "lat": 47.689981,
       "lng": 0.270233
@@ -782,10 +794,22 @@
       "lat": 47.71026699999999,
       "lng": 0.5099819999999999
    },
-   "Rte de Chaillé les Marais, 85370 LE LANGON": {},
-   "Le Lac de la Vallée Mabille, 44260 SAVENAY": {},
-   "Rue du 19 mars 1962, 85370 NALLIERS": {},
-   "Salle Pierre de Coubertin, Complexe Sportif P. de Coubertin, 49280 LA SEGUINIERE": {},
+   "Rte de Chaillé les Marais, 85370 LE LANGON": {
+      "lat": 46.4225443,
+      "lng": -0.9617072
+   },
+   "Le Lac de la Vallée Mabille, 44260 SAVENAY": {
+      "lat": 47.3554593,
+      "lng": -1.9248276
+   },
+   "Rue du 19 mars 1962, 85370 NALLIERS": {
+      "lat": 46.5638752,
+      "lng": 0.8642293999999999
+   },
+   "Salle Pierre de Coubertin, Complexe Sportif P. de Coubertin, 49280 LA SEGUINIERE": {
+      "lat": 47.063104,
+      "lng": -0.940147
+   },
    "85170 LE BEIGNON BASSET": {
       "lat": 46.729904,
       "lng": -1.419315
@@ -895,9 +919,18 @@
       "lat": 45.042768,
       "lng": 3.882936
    },
-   "montbarnier, 43200 YSSINGEAUX": {},
-   "43750 VALS PRES LE PUY": {},
-   "naucelles, 15250 NAUCELLES": {},
+   "montbarnier, 43200 YSSINGEAUX": {
+      "lat": 45.138501,
+      "lng": 4.136467
+   },
+   "43750 VALS PRES LE PUY": {
+      "lat": 45.030028,
+      "lng": 3.875883
+   },
+   "naucelles, 15250 NAUCELLES": {
+      "lat": 44.96002900000001,
+      "lng": 2.416879
+   },
    "stade du pont, 15130 ARPAJON": {
       "lat": 44.898297,
       "lng": 2.523966
@@ -1786,7 +1819,10 @@
       "lat": 48.610056,
       "lng": 1.676923
    },
-   "Ile Aucard, Quai Paul Bert, 37100 TOURS": {},
+   "Ile Aucard, Quai Paul Bert, 37100 TOURS": {
+      "lat": 47.417464,
+      "lng": 0.7060995
+   },
    "BP 181, 279 avenue de la Châtre, 36004 CHATEAUROUX CEDEX": {},
    "USV. section tennis, 19, rue Geoffroy Martel, 41100 VENDOME": {
       "lat": 47.79126429999999,
@@ -1889,8 +1925,14 @@
       "lat": 47.584587,
       "lng": 1.3831469
    },
-   "espace Carat, 18 rue des Saphirs, 45140 SAINT JEAN DE LA RUELLE": {},
-   "Avenue Victor Hugo, 28000 CHARTRES": {},
+   "espace Carat, 18 rue des Saphirs, 45140 SAINT JEAN DE LA RUELLE": {
+      "lat": 47.922828,
+      "lng": 1.8766234
+   },
+   "Avenue Victor Hugo, 28000 CHARTRES": {
+      "lat": 48.445547,
+      "lng": 1.524361
+   },
    "La Bellerie, Route du Bois des Hâtes, 37550 SAINT AVERTIN": {
       "lat": 47.367854,
       "lng": 0.7269049999999999
@@ -2225,7 +2267,10 @@
       "lng": 4.004302
    },
    "rue du stade, 52150 bourmont": {},
-   "Complexe sportif de Fumay, 08170 FUMAY": {},
+   "Complexe sportif de Fumay, 08170 FUMAY": {
+      "lat": 49.994464,
+      "lng": 4.705971000000001
+   },
    "Route de Cuis, 51530 CHOUILLY": {
       "lat": 48.977169,
       "lng": 3.96777
@@ -2346,7 +2391,10 @@
       "lat": 43.70436,
       "lng": 7.252586199999999
    },
-   "370, Avenue J.Weisweiller, 06600 ANTIBES": {},
+   "370, Avenue J.Weisweiller, 06600 ANTIBES": {
+      "lat": 43.5974561,
+      "lng": 7.0848112
+   },
    "06240 BEAUSOLEIL": {
       "lat": 43.741767,
       "lng": 7.423019
@@ -2472,9 +2520,18 @@
       "lat": 43.128777,
       "lng": 6.017199
    },
-   "Complexe Sportif des Blaquières, Route départementale 61A, 83310 GRIMAUD": {},
-   "4, Rue Alex. 1er de Yougoslavie, 06310 BEAULIEU SUR MER": {},
-   "218 Avenue des Tennis, 83250 LA LONDE": {},
+   "Complexe Sportif des Blaquières, Route départementale 61A, 83310 GRIMAUD": {
+      "lat": 43.2731889,
+      "lng": 6.520014
+   },
+   "4, Rue Alex. 1er de Yougoslavie, 06310 BEAULIEU SUR MER": {
+      "lat": 43.705761,
+      "lng": 7.332978
+   },
+   "218 Avenue des Tennis, 83250 LA LONDE": {
+      "lat": 43.1422878,
+      "lng": 6.2325047
+   },
    "CAL Caucade, 111, Avenue Ste Marguerite, 06200 NICE": {
       "lat": 43.677565,
       "lng": 7.213426999999999
@@ -2507,7 +2564,10 @@
       "lat": 43.493854,
       "lng": 6.3677722
    },
-   "Promenade Albert Camus, 06190 ROQUEBRUNE CAP MARTIN": {},
+   "Promenade Albert Camus, 06190 ROQUEBRUNE CAP MARTIN": {
+      "lat": 43.767254,
+      "lng": 7.4726855
+   },
    "Chemin de Baudaric, 06390 CONTES": {
       "lat": 43.8186241,
       "lng": 7.322674399999999
@@ -2569,7 +2629,10 @@
       "lat": 43.30054459999999,
       "lng": 6.6247323
    },
-   "Chemin de la Plaine, 06140 VENCE": {},
+   "Chemin de la Plaine, 06140 VENCE": {
+      "lat": 43.706408,
+      "lng": 7.1301744
+   },
    "Section de la Roquebrussanne, Chemin des Molières, 83136 LA ROQUEBRUSSANNE": {},
    "La Retrache, 83340 LE LUC": {},
    "SECTION TENNIS, RN 7  Base de Loisirs Galliéni, 83600 FREJUS": {
@@ -3243,10 +3306,22 @@
       "lat": 44.595702,
       "lng": 4.378811
    },
-   "le passeras, 26230 VALAURIE": {},
-   "Route de Chambéry, 38330 SAINT ISMIER": {},
-   "38850 CHARAVINES": {},
-   "rue du 5 aout 1944, 38270 BEAUREPAIRE": {},
+   "le passeras, 26230 VALAURIE": {
+      "lat": 44.42887899999999,
+      "lng": 4.821288
+   },
+   "Route de Chambéry, 38330 SAINT ISMIER": {
+      "lat": 45.24669,
+      "lng": 5.832250999999999
+   },
+   "38850 CHARAVINES": {
+      "lat": 45.428551,
+      "lng": 5.515649
+   },
+   "rue du 5 aout 1944, 38270 BEAUREPAIRE": {
+      "lat": 45.3388503,
+      "lng": 5.0633534
+   },
    "parc du chateau, rue aristide briand, 38220 VIZILLE": {
       "lat": 45.06741299999999,
       "lng": 5.769686
@@ -3339,9 +3414,18 @@
       "lat": 44.8966415,
       "lng": 5.0230762
    },
-   "avenue pierre de coubertin, 38360 SASSENAGE": {},
-   "salle polyvalente des combettes, 38450 SAINT-GEORGES DE COMMIERS": {},
-   "Parc Sestier, 26740 SAUZET": {},
+   "avenue pierre de coubertin, 38360 SASSENAGE": {
+      "lat": 45.21185699999999,
+      "lng": 5.6694246
+   },
+   "salle polyvalente des combettes, 38450 SAINT-GEORGES DE COMMIERS": {
+      "lat": 45.038556,
+      "lng": 5.70113
+   },
+   "Parc Sestier, 26740 SAUZET": {
+      "lat": 44.603249,
+      "lng": 4.819672
+   },
    "boite postale n^ 1, mairie st-etienne de crossey, 38960 SAINT ETIENNE DE CROSSEY": {
       "lat": 45.37911099999999,
       "lng": 5.64541
@@ -3540,7 +3624,10 @@
       "lat": 50.280228,
       "lng": 3.9674
    },
-   "Stade Demeny, Rue de Ferin, 59500 DOUAI": {},
+   "Stade Demeny, Rue de Ferin, 59500 DOUAI": {
+      "lat": 50.3586036,
+      "lng": 3.0766768
+   },
    "1100 av des M de la Résistance, 59286 ROOST-WARENDIN": {
       "lat": 50.40954190000001,
       "lng": 3.1089961
@@ -3693,12 +3780,18 @@
       "lat": 50.95129000000001,
       "lng": 1.858686
    },
-   "Salle A.Gratte, 18 rue de Wattignies, 59139 NOYELLES-LES-SECLIN": {},
+   "Salle A.Gratte, 18 rue de Wattignies, 59139 NOYELLES-LES-SECLIN": {
+      "lat": 50.5752573,
+      "lng": 3.0213262
+   },
    "Rue Fleming, 62400 BETHUNE": {
       "lat": 50.5427703,
       "lng": 2.647822
    },
-   "Complexe Marcel Paul, Chemin des Filatiers, 62223 ANZIN ST AUBIN": {},
+   "Complexe Marcel Paul, Chemin des Filatiers, 62223 ANZIN ST AUBIN": {
+      "lat": 50.3159175,
+      "lng": 2.7592698
+   },
    "Rue du Boernohl, 59210 COUDEKERQUE-BRANCHE": {
       "lat": 51.015681,
       "lng": 2.397046
@@ -3764,7 +3857,10 @@
       "lat": 50.6332029,
       "lng": 1.6065917
    },
-   "35 rue de la Malterie, 59110 LA MADELEINE": {},
+   "35 rue de la Malterie, 59110 LA MADELEINE": {
+      "lat": 50.66322719999999,
+      "lng": 3.0722334
+   },
    "Rue Emile Zola, 62640 MONTIGNY-EN-GOHELLE": {
       "lat": 50.431027,
       "lng": 2.926657
@@ -4464,7 +4560,10 @@
       "lat": 44.31374599999999,
       "lng": 0.088354
    },
-   "la piste, 24260 LE BUGUE": {},
+   "la piste, 24260 LE BUGUE": {
+      "lat": 44.909699,
+      "lng": 0.92465
+   },
    "stade municipal, 33480 SAINTE-HELENE": {},
    "7 Rue André Maginot, 33200 BORDEAUX": {
       "lat": 44.843126,
@@ -4627,12 +4726,18 @@
       "lng": -0.265838
    },
    "7 rue de la gravette, cubnezais, 33620 CUBNEZAIS": {},
-   "stade de pessalle, 8 B Rd Point des Alouettes, 33980 AUDENGE": {},
+   "stade de pessalle, 8 B Rd Point des Alouettes, 33980 AUDENGE": {
+      "lat": 44.683992,
+      "lng": -1.015512
+   },
    "Stade André Nègre, avenue des Provinces, 33600 PESSAC": {
       "lat": 44.793874,
       "lng": -0.6817164
    },
-   "stade municipal robert monseau, 33160 SAINT-MEDARD-EN-JALLES": {},
+   "stade municipal robert monseau, 33160 SAINT-MEDARD-EN-JALLES": {
+      "lat": 44.895295,
+      "lng": -0.7181
+   },
    "place de la mairie, 33370 ARTIGUES": {
       "lat": 44.860626,
       "lng": -0.493004
@@ -4735,10 +4840,22 @@
       "lat": 44.649956,
       "lng": 0.080319
    },
-   "lac du saut du loup, 47800 MIRAMONT": {},
-   "Passe du Tottoral, 33780 SOULAC": {},
-   "68 rue Raymond Sanchez, 33260 CAZAUX": {},
-   "Stade de Planèze, 24190 NEUVIC": {},
+   "lac du saut du loup, 47800 MIRAMONT": {
+      "lat": 44.586934,
+      "lng": 0.3757182
+   },
+   "Passe du Tottoral, 33780 SOULAC": {
+      "lat": 45.4935106,
+      "lng": -1.1385532
+   },
+   "68 rue Raymond Sanchez, 33260 CAZAUX": {
+      "lat": 44.5462275,
+      "lng": -1.1468498
+   },
+   "Stade de Planèze, 24190 NEUVIC": {
+      "lat": 45.1159109,
+      "lng": 0.4668310000000001
+   },
    "Stade Maroussie, 24150 COUZE ST FRONT": {},
    "la croix des pres, 24250 DOMME": {
       "lat": 44.801305,
@@ -4788,12 +4905,18 @@
       "lat": 43.1838473,
       "lng": 2.9756321
    },
-   "Chemin des Tennis, Route de Nîmes, 30140 ANDUZE": {},
+   "Chemin des Tennis, Route de Nîmes, 30140 ANDUZE": {
+      "lat": 44.041913,
+      "lng": 3.988785
+   },
    "zi du berret, 30200 BAGNOLS SUR CEZE": {
       "lat": 44.16252,
       "lng": 4.620075
    },
-   "stades lavalette et alairac, caux et sauzens, 11290 ALAIRAC": {},
+   "stades lavalette et alairac, caux et sauzens, 11290 ALAIRAC": {
+      "lat": 43.185365,
+      "lng": 2.241255
+   },
    "quartier princesse, 30250 SOMMIERES": {
       "lat": 43.78344999999999,
       "lng": 4.089738
@@ -4822,8 +4945,14 @@
       "lat": 43.643944,
       "lng": 3.933716
    },
-   "parc jean rolland, 66740 SAINT GENIS DES FONTAINES": {},
-   "parc des sports, 66820 VERNET LES BAINS": {},
+   "parc jean rolland, 66740 SAINT GENIS DES FONTAINES": {
+      "lat": 42.54344800000001,
+      "lng": 2.920462
+   },
+   "parc des sports, 66820 VERNET LES BAINS": {
+      "lat": 46.1986301,
+      "lng": 6.1371173
+   },
    "stade municipal, Chemin de la Pascale, 34290 SERVIAN": {},
    "TC LES HAUTS DE NIMES, Chemin des Hauts de Nîmes, 30000 NIMES": {},
    "1 rue du Cimetière, 11610 VENTENAC CABARDES": {
@@ -5288,8 +5417,14 @@
    "Complexe Sportif ASPTT, Rue Faraday Z.I.N., 87100 LIMOGES": {},
    "saint yrieix, le bocage, 87500 ST YRIEIX": {},
    "red star tc, 81 rue de beaupuy, 87100 LIMOGES": {},
-   "Pôle Tennis, rue Léo Lagrange, 87200 ST JUNIEN": {},
-   "Ensemble sportif municipal, 3, Rue du stade, 19200 USSEL": {},
+   "Pôle Tennis, rue Léo Lagrange, 87200 ST JUNIEN": {
+      "lat": 45.8954317,
+      "lng": 0.8972365
+   },
+   "Ensemble sportif municipal, 3, Rue du stade, 19200 USSEL": {
+      "lat": 45.5468682,
+      "lng": 2.316352
+   },
    "CENTRE QUORUM, Avenue de Limoges, 87920 CONDAT SUR VIENNE": {},
    "87000 LIMOGES": {},
    "41 bis rue de feytiat, actcbf, 87000 LIMOGES": {
@@ -5329,13 +5464,31 @@
       "lat": 45.159555,
       "lng": 1.533937
    },
-   "Centre Corporatif du Bas-Fargeas, 41 bis, rue de Feytiat, 87000 LIMOGES": {},
-   "10 rue leo lagrange, 87300 BELLAC": {},
+   "Centre Corporatif du Bas-Fargeas, 41 bis, rue de Feytiat, 87000 LIMOGES": {
+      "lat": 45.8208962,
+      "lng": 1.2841177
+   },
+   "10 rue leo lagrange, 87300 BELLAC": {
+      "lat": 46.125335,
+      "lng": 1.047226
+   },
    "stade pierre lacorre, 87220 FEYTIAT": {},
-   "A.C.T.C.G., GRANCHER, 23000 GUERET": {},
-   "AVENUE DU 8 MAI 1945, 23700 AUZANCES": {},
-   "136 RUE DE L HIPPODROME, 87270 COUZEIX": {},
-   "87220 BOISSEUIL": {},
+   "A.C.T.C.G., GRANCHER, 23000 GUERET": {
+      "lat": 46.1688232,
+      "lng": 1.8649074
+   },
+   "AVENUE DU 8 MAI 1945, 23700 AUZANCES": {
+      "lat": 46.0324742,
+      "lng": 2.4961674
+   },
+   "136 RUE DE L HIPPODROME, 87270 COUZEIX": {
+      "lat": 45.8734055,
+      "lng": 1.212329
+   },
+   "87220 BOISSEUIL": {
+      "lat": 45.770078,
+      "lng": 1.3308739
+   },
    "stade asptt, bp 192, 23004 GUERET CEDEX": {},
    "Stade, 87300 PEYRAT DE BELLAC": {
       "lat": 46.14218899999999,
@@ -5377,11 +5530,26 @@
       "lat": 49.2138347,
       "lng": 6.1654845
    },
-   "plateau sportif Ecole, 54980 BATILLY": {},
-   "rue Pierre De Coubertin, 57175 GANDRANGE": {},
-   "stade de Damelevières, 54360 DAMELEVIERES": {},
-   "rue Robert Schuman, 57220 BOULAY": {},
-   "rue des Forestiers, 54520 LAXOU": {},
+   "plateau sportif Ecole, 54980 BATILLY": {
+      "lat": 49.17102,
+      "lng": 5.969358
+   },
+   "rue Pierre De Coubertin, 57175 GANDRANGE": {
+      "lat": 49.2754509,
+      "lng": 6.146857499999999
+   },
+   "stade de Damelevières, 54360 DAMELEVIERES": {
+      "lat": 48.556756,
+      "lng": 6.386019000000001
+   },
+   "rue Robert Schuman, 57220 BOULAY": {
+      "lat": 49.185664,
+      "lng": 6.491575999999999
+   },
+   "rue des Forestiers, 54520 LAXOU": {
+      "lat": 48.6865949,
+      "lng": 6.127865
+   },
    "zone de la Saussaie, 57160 MOULINS LES METZ": {},
    "rue de la Brasserie, 54920 VILLERS LA MONTAGNE": {
       "lat": 49.4753359,
@@ -5530,7 +5698,10 @@
    "34 Avenue Gilbert Fabre, 69390 MILLERY": {},
    "Stade Omnisports, Avenue de Mering, 01500 AMBERIEU EN BUGEY": {},
    "Tennis Club 22 Rue des Bullieux, BP 143, 42163 ANDREZIEUX BOUTHEON CEDEX": {},
-   "Boulevard de la Grande Terre, 42400 SAINT CHAMOND": {},
+   "Boulevard de la Grande Terre, 42400 SAINT CHAMOND": {
+      "lat": 45.4760029,
+      "lng": 4.5363732
+   },
    "Chemin des Poyets, 69650 QUINCIEUX": {},
    "Avenue Jean Durand, Stade Jean Zay, 69520 GRIGNY": {},
    "Base de Loisirs, 01350 CULOZ": {
@@ -5574,13 +5745,31 @@
       "lng": 4.913467000000001
    },
    "146 Bis Cours de Verdun, 01105 OYONNAX CEDEX": {},
-   "60 Rue Pierre Baratin, 69100 VILLEURBANNE": {},
+   "60 Rue Pierre Baratin, 69100 VILLEURBANNE": {
+      "lat": 45.76182619999999,
+      "lng": 4.9004164
+   },
    "13 rue Stade de Beauregard, 42600 MONTBRISON": {},
-   "3 Bd du 11 Novembre, 69100 VILLEURBANNE": {},
-   "195 Rue Mirabeau, 69400 VILLEFRANCHE SUR SAONE": {},
-   "12 Avenue Amédée Mercier, 01000 BOURG EN BRESSE": {},
-   "9 Rue Francois Peissel, 69300 CALUIRE": {},
-   "12 Rue Claude Jusseaud, 69110 SAINTE FOY LES LYON": {},
+   "3 Bd du 11 Novembre, 69100 VILLEURBANNE": {
+      "lat": 45.7796313,
+      "lng": 4.8610811
+   },
+   "195 Rue Mirabeau, 69400 VILLEFRANCHE SUR SAONE": {
+      "lat": 45.9989486,
+      "lng": 4.728778699999999
+   },
+   "12 Avenue Amédée Mercier, 01000 BOURG EN BRESSE": {
+      "lat": 46.2053877,
+      "lng": 5.2363653
+   },
+   "9 Rue Francois Peissel, 69300 CALUIRE": {
+      "lat": 45.7923679,
+      "lng": 4.8382569
+   },
+   "12 Rue Claude Jusseaud, 69110 SAINTE FOY LES LYON": {
+      "lat": 45.7493397,
+      "lng": 4.807066799999999
+   },
    "Stade des Baisses, 01440 VIRIAT": {
       "lat": 46.253209,
       "lng": 5.216721
@@ -5614,9 +5803,18 @@
       "lat": 45.8016301,
       "lng": 4.8687853
    },
-   "Stade Municipal, 38 Avenue Jean Mace, 69150 DECINES": {},
-   "Rue de la Tour, 42700 FIRMINY": {},
-   "11 Chemin des Pins, 69570 DARDILLY": {},
+   "Stade Municipal, 38 Avenue Jean Mace, 69150 DECINES": {
+      "lat": 45.7656372,
+      "lng": 4.9561781
+   },
+   "Rue de la Tour, 42700 FIRMINY": {
+      "lat": 45.382402,
+      "lng": 4.284654000000001
+   },
+   "11 Chemin des Pins, 69570 DARDILLY": {
+      "lat": 45.79261090000001,
+      "lng": 4.7407255
+   },
    "Parc des Sports, 32 Route de Lyon, 69250 NEUVILLE SUR SAONE": {},
    "63 Rue Charlie Chaplin, 42300 ROANNE": {},
    "Rond Point, Normandie Niemen, 69800 SAINT PRIEST": {},
@@ -5660,8 +5858,14 @@
    "Complexe Pierre Minssieux, 14 Avenue du Stade, 69530 BRIGNAIS": {},
    "Rue du Stade, 42160 BONSON": {},
    "Route de Civrieux, 01600 MASSIEUX": {},
-   "Parc des Sports, Route de Lyon, 01090 MONTMERLE SUR SAONE": {},
-   "Stade Municipal, 577 Route des Echets, 69250 MONTANAY": {},
+   "Parc des Sports, Route de Lyon, 01090 MONTMERLE SUR SAONE": {
+      "lat": 46.0774131,
+      "lng": 4.76049
+   },
+   "Stade Municipal, 577 Route des Echets, 69250 MONTANAY": {
+      "lat": 45.8821634,
+      "lng": 4.8732364
+   },
    "156 Av Barthélémy Buyer, 69009 LYON": {
       "lat": 45.7637294,
       "lng": 4.7981953
@@ -5698,13 +5902,34 @@
       "lat": 45.542297,
       "lng": 4.172098
    },
-   "456 Chemin des Gorges, 01200 CHATILLON EN MICHAILLE": {},
-   "Les Pierrières, Chemin de la Chagne, 01000 BOURG EN BRESSE": {},
-   "Le Village, 01310 CONFRANCON": {},
-   "Rue des Sports, 01140 ST DIDIER SUR CHALARONNE": {},
-   "RCM Tennis, Route de Jailleux, 01120 MONTLUEL": {},
-   "Route des Prolières, Parc Omnisports, 69270 CAILLOUX SUR FONTAINES": {},
-   "Complexe Sportif, Pierre Mendes France, 42420 LORETTE": {},
+   "456 Chemin des Gorges, 01200 CHATILLON EN MICHAILLE": {
+      "lat": 46.11797319999999,
+      "lng": 5.8044883
+   },
+   "Les Pierrières, Chemin de la Chagne, 01000 BOURG EN BRESSE": {
+      "lat": 46.2077816,
+      "lng": 5.2657504
+   },
+   "Le Village, 01310 CONFRANCON": {
+      "lat": 46.2385363,
+      "lng": 5.118185
+   },
+   "Rue des Sports, 01140 ST DIDIER SUR CHALARONNE": {
+      "lat": 46.1790282,
+      "lng": 4.8089243
+   },
+   "RCM Tennis, Route de Jailleux, 01120 MONTLUEL": {
+      "lat": 45.8606516,
+      "lng": 5.0490498
+   },
+   "Route des Prolières, Parc Omnisports, 69270 CAILLOUX SUR FONTAINES": {
+      "lat": 45.8523319,
+      "lng": 4.87201
+   },
+   "Complexe Sportif, Pierre Mendes France, 42420 LORETTE": {
+      "lat": 45.508725,
+      "lng": 4.581694
+   },
    "3 Rue de la Piscine, 69360 SAINT SYMPHORIEN D OZON": {},
    "la Sazarde, 01320 CHALAMONT": {},
    "310 Route de Marcilly, 69380 CIVRIEUX D AZERGUES": {
@@ -5743,7 +5968,10 @@
    "103 Rue du Moulin a Vent, 42300 ROANNE": {},
    "Stade Municipal, 42810 ROZIER EN DONZY": {},
    "Espace Farinois, Place de la Bascule, 01480 FAREINS": {},
-   "Stade les Ys, 42370 SAINT ALBAN LES EAUX": {},
+   "Stade les Ys, 42370 SAINT ALBAN LES EAUX": {
+      "lat": 46.010863,
+      "lng": 3.9382
+   },
    "Parc des Sports, 30 avenue Denis Delorme, 69260 CHARBONNIERES LES BAINS": {},
    "Zone de Loisirs, Hurongues, 69590 POMEYS": {},
    "Parc de Champvillard, 69540 IRIGNY": {
@@ -5828,11 +6056,17 @@
    "Stade Albert Vaccalut, Chemin du Petit Poizat, 69970 MARENNES": {},
    "Association Croque-Loisirs, Chemin des Tourettes, 42230 SAINT VICTOR SUR LOIRE": {},
    "100 Bd Emile Zola, 69600 OULLINS": {},
-   "Complexe Sportif, Rue de la Taillée, 42390 VILLARS": {},
+   "Complexe Sportif, Rue de la Taillée, 42390 VILLARS": {
+      "lat": 45.46754,
+      "lng": 4.3580653
+   },
    "Stade de la Craz, 01250 MONTAGNAT": {},
    "147 Allée René Duffour, 01540 VONNAS": {},
    "Stade F. Paye, 01700 NEYRON": {},
-   "Stade E.Mercier, 42680 SAINT MARCELLIN EN FOREZ": {},
+   "Stade E.Mercier, 42680 SAINT MARCELLIN EN FOREZ": {
+      "lat": 45.497451,
+      "lng": 4.16686
+   },
    "20 Rue du Pont Chabrol, 69290 CRAPONNE": {
       "lat": 45.7392312,
       "lng": 4.7124595
@@ -5869,12 +6103,30 @@
       "lat": 46.0648939,
       "lng": 5.0764394
    },
-   "575 ROUTE DES DÏMES, 01570 FEILLENS": {},
-   "405 Av Jean Jaures, 69007 LYON": {},
-   "7 Av Francois Prosper De Douglas, 01460 MONTREAL LA CLUSE": {},
-   "01630 SERGY": {},
-   "Stade Etienne Berger, 42530 SAINT GENEST LERPT": {},
-   "67-69 Avenue Paul Delorme, 69580 SATHONAY CAMP": {},
+   "575 ROUTE DES DÏMES, 01570 FEILLENS": {
+      "lat": 46.3337059,
+      "lng": 4.881176
+   },
+   "405 Av Jean Jaures, 69007 LYON": {
+      "lat": 45.72080200000001,
+      "lng": 4.827247
+   },
+   "7 Av Francois Prosper De Douglas, 01460 MONTREAL LA CLUSE": {
+      "lat": 46.1853369,
+      "lng": 5.570780999999999
+   },
+   "01630 SERGY": {
+      "lat": 46.251997,
+      "lng": 5.999084
+   },
+   "Stade Etienne Berger, 42530 SAINT GENEST LERPT": {
+      "lat": 45.452188,
+      "lng": 4.341445
+   },
+   "67-69 Avenue Paul Delorme, 69580 SATHONAY CAMP": {
+      "lat": 45.8180149,
+      "lng": 4.866675
+   },
    "2 Rue des Peupliers, 42410 PELUSSIN": {},
    "Parc Mon Roc, Chemin des Verpillières, 69850 SAINT MARTIN EN HAUT": {
       "lat": 45.660171,
@@ -5993,12 +6245,30 @@
       "lat": 45.538274,
       "lng": 4.234366
    },
-   "9 Rue Professeur Joseph Nicolas, 69008 LYON": {},
-   "Chemin des Verchères, 69280 MARCY L ETOILE": {},
-   "Route de Corbas, 69780 MIONS": {},
-   "Aux Marques, 01480 MESSIMY SUR SAONE": {},
-   "Avenue du Stade, 01800 MEXIMIEUX": {},
-   "La Rivière, 42370 RENAISON": {},
+   "9 Rue Professeur Joseph Nicolas, 69008 LYON": {
+      "lat": 45.7346802,
+      "lng": 4.882413199999999
+   },
+   "Chemin des Verchères, 69280 MARCY L ETOILE": {
+      "lat": 45.7861812,
+      "lng": 4.7026614
+   },
+   "Route de Corbas, 69780 MIONS": {
+      "lat": 45.665536,
+      "lng": 4.94139
+   },
+   "Aux Marques, 01480 MESSIMY SUR SAONE": {
+      "lat": 46.048409,
+      "lng": 4.764139000000001
+   },
+   "Avenue du Stade, 01800 MEXIMIEUX": {
+      "lat": 45.940925,
+      "lng": 5.186229
+   },
+   "La Rivière, 42370 RENAISON": {
+      "lat": 46.0364012,
+      "lng": 3.9823151
+   },
    "Stade Jean Brissaud, 69330 PUSIGNAN": {},
    "Stade Municipal, 01360 BALAN": {},
    "Chemin de Montlouis, 69600 OULLINS": {
@@ -6040,7 +6310,10 @@
    "route du hom (salle), parc chantereine, 27170 BEAUMONT LE ROGER": {},
    "27800 BRIONNE": {},
    "stade pierre mendes-france, chemin du val, 14123 IFS": {},
-   "route de veulettes, 76450 CANY BARVILLE": {},
+   "route de veulettes, 76450 CANY BARVILLE": {
+      "lat": 49.79381679999999,
+      "lng": 0.6387164000000001
+   },
    "24 rue louis leprevost, 76620 LE HAVRE": {},
    "rue pierre de coubertin, 76190 YVETOT": {},
    "21 route de Paris, 61200 ARGENTAN": {
@@ -6176,8 +6449,14 @@
    "61 rue henri barbusse, 50130 OCTEVILLE": {},
    "centre a. calmat, av de buchholz, 76380 CANTELEU": {},
    "14000 CAEN": {},
-   "14800 TOUQUES": {},
-   "stade M. TASSUS, 2 avenue Victor Hugo, 27140 GISORS": {},
+   "14800 TOUQUES": {
+      "lat": 49.343419,
+      "lng": 0.101277
+   },
+   "stade M. TASSUS, 2 avenue Victor Hugo, 27140 GISORS": {
+      "lat": 49.2828805,
+      "lng": 1.7702283
+   },
    "plaine de jeux, 76150 MAROMME": {
       "lat": 49.481859,
       "lng": 1.044099
@@ -6211,9 +6490,18 @@
       "lng": 0.7320894
    },
    "complexe de tennis, rue louise michel, 50120 EQUEURDREVILLE HAINNEVILL": {},
-   "1, av charles de gaulle, 14390 CABOURG": {},
-   "salle polyvalente, route de chalendrey, 50540 ISIGNY LE BUAT": {},
-   "parc des sports, 27100 VAL DE REUIL": {},
+   "1, av charles de gaulle, 14390 CABOURG": {
+      "lat": 49.2875296,
+      "lng": -0.1217599
+   },
+   "salle polyvalente, route de chalendrey, 50540 ISIGNY LE BUAT": {
+      "lat": 48.618859,
+      "lng": -1.172307
+   },
+   "parc des sports, 27100 VAL DE REUIL": {
+      "lat": 49.272602,
+      "lng": 1.217085
+   },
    "route de pierreville, 76730 BACQUEVILLE EN CAUX": {},
    "1 rue Léon Blum, 76270 NEUFCHATEL EN BRAY": {},
    "88 av de la plage, 14150 OUISTREHAM": {},
@@ -6333,12 +6621,30 @@
       "lat": 48.8321482,
       "lng": 2.399359
    },
-   "PARC DES SPORTS, 148 BIS AV CHARLES DE GAULLE, 92160 ANTONY": {},
-   "Rue de Trye, 60510 BRESLES": {},
-   "Chemin du Stade, 02260 LA CAPELLE": {},
-   "Route de Mouy, 60430 NOAILLES": {},
-   "chemin de la fosse au lait, 80009 AMIENS": {},
-   "Route de Ham, 80190 NESLE": {},
+   "PARC DES SPORTS, 148 BIS AV CHARLES DE GAULLE, 92160 ANTONY": {
+      "lat": 48.759255,
+      "lng": 2.302553
+   },
+   "Rue de Trye, 60510 BRESLES": {
+      "lat": 49.4039265,
+      "lng": 2.2590463
+   },
+   "Chemin du Stade, 02260 LA CAPELLE": {
+      "lat": 44.8411349,
+      "lng": 0.2222183
+   },
+   "Route de Mouy, 60430 NOAILLES": {
+      "lat": 49.32840960000001,
+      "lng": 2.209387
+   },
+   "chemin de la fosse au lait, 80009 AMIENS": {
+      "lat": 49.8851058,
+      "lng": 2.2893532
+   },
+   "Route de Ham, 80190 NESLE": {
+      "lat": 49.760253,
+      "lng": 2.922368
+   },
    "Salle Philippe Chatrier, Stade Léo Lagrange, 02300 CHAUNY": {
       "lat": 49.615576,
       "lng": 3.219421
@@ -6367,11 +6673,26 @@
       "lat": 49.420786,
       "lng": 2.8360128
    },
-   "Rue du Stade, 60560 ORRY LA VILLE": {},
-   "302 rue Gaulthier de Rumilly, 80000 AMIENS": {},
-   "Place Henry Barbusse, 60290 LAIGNEVILLE": {},
-   "Stade A. Coel, 80700 ROYE": {},
-   "Rue du Stade, 60360 CREVECOEUR LE GRAND": {},
+   "Rue du Stade, 60560 ORRY LA VILLE": {
+      "lat": 49.1277929,
+      "lng": 2.5230842
+   },
+   "302 rue Gaulthier de Rumilly, 80000 AMIENS": {
+      "lat": 49.880543,
+      "lng": 2.2910239
+   },
+   "Place Henry Barbusse, 60290 LAIGNEVILLE": {
+      "lat": 49.3266091,
+      "lng": 2.4406285
+   },
+   "Stade A. Coel, 80700 ROYE": {
+      "lat": 49.69779699999999,
+      "lng": 2.788831
+   },
+   "Rue du Stade, 60360 CREVECOEUR LE GRAND": {
+      "lat": 49.6053803,
+      "lng": 2.0739663
+   },
    "Les Bourgognes, 60500 CHANTILLY": {},
    "Rue des Entrepreneurs, 60610 LACROIX SAINT OUEN": {},
    "BP 50206, Rue Jean Toeuf, 80200 PERONNE": {},
@@ -6420,10 +6741,22 @@
    "19 rue du Stade, 60190 ESTREES SAINT DENIS": {},
    "46 chemin des Postes, 80100 ABBEVILLE": {},
    "Boulevard Pequereau, 02120 GUISE": {},
-   "Parc des Sports, Rue de Créqui, 80110 MOREUIL": {},
-   "Stade Léo Lagrange, VOUEL, 02700 TERGNIER": {},
-   "Rue Philippe Ermenault, 80420 FLIXECOURT": {},
-   "Chemin de Vauvoix, 80080 AMIENS": {},
+   "Parc des Sports, Rue de Créqui, 80110 MOREUIL": {
+      "lat": 49.77060789999999,
+      "lng": 2.4874797
+   },
+   "Stade Léo Lagrange, VOUEL, 02700 TERGNIER": {
+      "lat": 49.65625199999999,
+      "lng": 3.291635
+   },
+   "Rue Philippe Ermenault, 80420 FLIXECOURT": {
+      "lat": 50.014896,
+      "lng": 2.08107
+   },
+   "Chemin de Vauvoix, 80080 AMIENS": {
+      "lat": 49.9126696,
+      "lng": 2.2878816
+   },
    "Rue de Mosbach, 02400 CHATEAU THIERRY": {
       "lat": 49.0459869,
       "lng": 3.40262
@@ -6456,8 +6789,14 @@
       "lat": 49.666709,
       "lng": 1.8101764
    },
-   "Rue Aristide Fricoteaux, 02800 ANGUILCOURT LE SART": {},
-   "Avenue Saint-Exupéry, 02250 MARLE": {},
+   "Rue Aristide Fricoteaux, 02800 ANGUILCOURT LE SART": {
+      "lat": 49.6857619,
+      "lng": 3.435775
+   },
+   "Avenue Saint-Exupéry, 02250 MARLE": {
+      "lat": 50.35059159999999,
+      "lng": 3.551257
+   },
    "Avenue Guy Moquet, 60160 MONTATAIRE": {},
    "Stade Municipal, 02440 MONTESCOURT LIZEROLLES": {},
    "Allée des Sports, 60260 LAMORLAYE": {},
@@ -6544,8 +6883,14 @@
       "lat": 46.323716,
       "lng": -0.4647769999999999
    },
-   "halle universitaire, av jacques coeur, 86000 POITIERS": {},
-   "Complexe Sportif, 86170 NEUVILLE": {},
+   "halle universitaire, av jacques coeur, 86000 POITIERS": {
+      "lat": 46.562996,
+      "lng": 0.382757
+   },
+   "Complexe Sportif, 86170 NEUVILLE": {
+      "lat": 46.679981,
+      "lng": 0.248171
+   },
    "salle polyvalente, 86460 AVAILLES LIMOUSINES": {},
    "19 rue saint-christophe, 17290 AIGREFEUILLE": {},
    "Le Peuron, 86300 CHAUVIGNY": {},
@@ -6579,13 +6924,28 @@
       "lat": 45.944823,
       "lng": -0.517763
    },
-   "la pouyade, 17500 JONZAC": {},
+   "la pouyade, 17500 JONZAC": {
+      "lat": 45.449646,
+      "lng": -0.442936
+   },
    "Chemin du Pinier, 79500 MELLE": {},
-   "86220 DANGE SAINT ROMAIN": {},
-   "86800 SAINT JULIEN L ARS": {},
-   "complexe sportif, av girault, 86130 JAUNAY CLAN": {},
+   "86220 DANGE SAINT ROMAIN": {
+      "lat": 46.938193,
+      "lng": 0.604999
+   },
+   "86800 SAINT JULIEN L ARS": {
+      "lat": 46.558357,
+      "lng": 0.506634
+   },
+   "complexe sportif, av girault, 86130 JAUNAY CLAN": {
+      "lat": 46.6815135,
+      "lng": 0.3744985
+   },
    "37 Rue de Chez Dary, 16710 SAINT YRIEIX": {},
-   "Complexe Colette Besson, Rue du Docteur Maudet, 17110 SAINT GEORGES DE DIDONNE": {},
+   "Complexe Colette Besson, Rue du Docteur Maudet, 17110 SAINT GEORGES DE DIDONNE": {
+      "lat": 45.6046608,
+      "lng": -1.0014571
+   },
    "Chemin de la couture, 79410 ECHIRE": {},
    "Rue des Sports, 17230 ANDILLY": {
       "lat": 46.2549003,
@@ -6620,8 +6980,14 @@
    "1, Chemin du Brandat, 16100 SAINT BRICE": {},
    "VERCIVAL TC, 86320 CIVAUX": {},
    "Complexe du Polygone, 17300 ROCHEFORT": {},
-   "Complexe Sportif Les Sources, Route de Frefoir, 86530 CENON": {},
-   "mairie de lusignan, 86600 LUSIGNAN": {},
+   "Complexe Sportif Les Sources, Route de Frefoir, 86530 CENON": {
+      "lat": 46.7706339,
+      "lng": 0.5412237999999999
+   },
+   "mairie de lusignan, 86600 LUSIGNAN": {
+      "lat": 46.43471,
+      "lng": 0.122455
+   },
    "centre sportif, 8 rue Hemmoor, 86700 COUHE": {},
    "Rue Descartes, 86220 INGRANDES SUR VIENNE": {},
    "TC TREMBLADAIS, 3 Alllée des sports, 17390 RONCE LES BAINS": {},
@@ -6661,9 +7027,18 @@
       "lat": 46.148901,
       "lng": 0.295258
    },
-   "79140 CERIZAY": {},
-   "Complexe Sportif, 17440 AYTRE": {},
-   "20 Rue Molière, 79700 MAULEON": {},
+   "79140 CERIZAY": {
+      "lat": 46.820776,
+      "lng": -0.6699879999999999
+   },
+   "Complexe Sportif, 17440 AYTRE": {
+      "lat": 46.134424,
+      "lng": -1.113732
+   },
+   "20 Rue Molière, 79700 MAULEON": {
+      "lat": 46.9189696,
+      "lng": -0.7479922999999999
+   },
    "stade municipal, rue Pierre Coubertin, 16600 MAGNAC SUR TOUVRE": {},
    "Tennis Club Bassin, Stade de Beaulieu, 17320 MARENNES": {},
    "Halle de tennis, Rue de la deviniere, 86000 POITIERS": {
@@ -6708,10 +7083,22 @@
    },
    "Complexe sportif de chez Jallet, Chez Jallet, 16440 CLAIX": {},
    "4 rue des Epinettes, 17450 FOURAS": {},
-   "tennis club soyaux, stade leo lagrange, 16800 SOYAUX": {},
-   "la tourtillere, 17138 PUILBOREAU": {},
-   "56 bis avenue de la Gamipote, Le Lac, 17420 ST PALAIS SUR MER": {},
-   "Secrétariat, 138 rue des Colombiers, 86550 MIGNALOUX BEAUVOIR": {},
+   "tennis club soyaux, stade leo lagrange, 16800 SOYAUX": {
+      "lat": 45.641437,
+      "lng": 0.192981
+   },
+   "la tourtillere, 17138 PUILBOREAU": {
+      "lat": 46.1897393,
+      "lng": -1.098901
+   },
+   "56 bis avenue de la Gamipote, Le Lac, 17420 ST PALAIS SUR MER": {
+      "lat": 45.64290400000001,
+      "lng": -1.085874
+   },
+   "Secrétariat, 138 rue des Colombiers, 86550 MIGNALOUX BEAUVOIR": {
+      "lat": 46.5654326,
+      "lng": 0.4085979
+   },
    "La Grange, 16440 ROULLET SAINT ESTEPHE": {
       "lat": 45.584749,
       "lng": 0.053997
@@ -6748,13 +7135,25 @@
       "lat": 43.349537,
       "lng": 5.603996
    },
-   "stade des molieres, 13140 MIRAMAS": {},
-   "RUE PRESIDENT DASSIER, 13140 MIRAMAS": {},
+   "stade des molieres, 13140 MIRAMAS": {
+      "lat": 43.588896,
+      "lng": 5.002136
+   },
+   "RUE PRESIDENT DASSIER, 13140 MIRAMAS": {
+      "lat": 43.584449,
+      "lng": 4.997865
+   },
    "COMPLEXE SPORTIF GEORGES CARNUS, avenue jean jaures, 13180 GIGNAC-LA-NERTHE": {},
    "LA SAINTE CROIX, 84260 SARRIANS": {},
-   "Trav. Eglise St Pier, StPierre les Aubagne, 13400 AUBAGNE": {},
+   "Trav. Eglise St Pier, StPierre les Aubagne, 13400 AUBAGNE": {
+      "lat": 43.29218,
+      "lng": 5.569336000000001
+   },
    "Parc Club Arbois, Rte Departementale 543, 13480 CABRIES": {},
-   "STADE MUNICIPAL, avenue Léo Lagrange, 13410 LAMBESC": {},
+   "STADE MUNICIPAL, avenue Léo Lagrange, 13410 LAMBESC": {
+      "lat": 43.6482534,
+      "lng": 5.2675306
+   },
    "Parc St Bruno, D377, 30131 PUJAUT": {},
    "le colombier, 84160 CADENET": {
       "lat": 43.73469499999999,
@@ -6783,7 +7182,10 @@
    "AVENUE DES BONNETS, 13530 TRETS": {},
    "82, rue du commandant rolland, 13008 MARSEILLE": {},
    "ZI La Palun BP 46, 1 rue Emmanuel Vitria, 13120 GARDANNE": {},
-   "cd 4, avenue jean giono, 13190 ALLAUCH": {},
+   "cd 4, avenue jean giono, 13190 ALLAUCH": {
+      "lat": 43.3345439,
+      "lng": 5.479114099999999
+   },
    "les garrigues, 13840 ROGNES": {},
    "Route de St Saturnin, 84140 MONTFAVET": {},
    "maeva latitudes camargue, mas de veran, 13200 ARLES": {
@@ -6919,12 +7321,30 @@
       "lat": 43.9356285,
       "lng": 4.9054268
    },
-   "base de loisirs, la garenne, 13790 PEYNIER": {},
-   "148, allee des genets, 84500 BOLLENE": {},
-   "BD DES FRERES REBOUL, 30400 VILLENEUVE LEZ AVIGNON": {},
-   "QUARTIER STE ROSALIE, 13580 LA FARE-LES-OLIVIERS": {},
-   "montee de la begude, 13710 FUVEAU": {},
-   "STADE MUNICIPAL, 84830 SERIGNAN": {},
+   "base de loisirs, la garenne, 13790 PEYNIER": {
+      "lat": 43.4472602,
+      "lng": 5.6327128
+   },
+   "148, allee des genets, 84500 BOLLENE": {
+      "lat": 44.2922269,
+      "lng": 4.7584916
+   },
+   "BD DES FRERES REBOUL, 30400 VILLENEUVE LEZ AVIGNON": {
+      "lat": 43.9634522,
+      "lng": 4.789743
+   },
+   "QUARTIER STE ROSALIE, 13580 LA FARE-LES-OLIVIERS": {
+      "lat": 43.550993,
+      "lng": 5.194541
+   },
+   "montee de la begude, 13710 FUVEAU": {
+      "lat": 43.453204,
+      "lng": 5.543241999999999
+   },
+   "STADE MUNICIPAL, 84830 SERIGNAN": {
+      "lat": 43.2473605,
+      "lng": 3.2890189
+   },
    "place de la paix, route de peyrafeux, 84430 MONDRAGON": {
       "lat": 44.238945,
       "lng": 4.713344
@@ -6961,8 +7381,14 @@
       "lat": 43.9632085,
       "lng": 5.7866747
    },
-   "quartier pujol, chemin de la petite bruliere, 13330 PELISSANNE": {},
-   "route de gap, 05300 LARAGNE MONTEGLIN": {},
+   "quartier pujol, chemin de la petite bruliere, 13330 PELISSANNE": {
+      "lat": 43.6323764,
+      "lng": 5.1499815
+   },
+   "route de gap, 05300 LARAGNE MONTEGLIN": {
+      "lat": 44.3182481,
+      "lng": 5.8274978
+   },
    "STADE MUNICIPAL, AVENUE JEAN RIOUFOL, 84170 MONTEUX": {},
    "88 BOULEVARD DU QUEIREL, 13010 MARSEILLE": {},
    "COMPLEXE SPORTIF JC UNIA, AVENUE DE PROVENCE LA BERGERIE, 13110 PORT-DE-BOUC": {},
@@ -6999,8 +7425,14 @@
    "la pausa, boulevard de la signore, 13700 MARIGNANE": {},
    "Centre de Loisirs, rd 908 Route de Peynier, 13720 BELCODENE": {},
    "stade, 84460 CHEVAL-BLANC": {},
-   "83 Bd du Redon, 13009 MARSEILLE": {},
-   "route de calas, plan de campagne, 13480 CABRIES": {},
+   "83 Bd du Redon, 13009 MARSEILLE": {
+      "lat": 43.25379909999999,
+      "lng": 5.4213098
+   },
+   "route de calas, plan de campagne, 13480 CABRIES": {
+      "lat": 43.4197309,
+      "lng": 5.3668758
+   },
    "92 CHEMIN DES ACCATES, 13011 MARSEILLE": {
       "lat": 43.302129,
       "lng": 5.4932292
@@ -7037,10 +7469,19 @@
       "lat": 44.68277,
       "lng": 6.077735000000001
    },
-   "84400 GARGAS": {},
+   "84400 GARGAS": {
+      "lat": 43.90322,
+      "lng": 5.357387999999999
+   },
    "Le Palmier, 9240 avenue Augustin Fresnel, 13290 LA DURANNE": {},
-   "parc municipal omnisports, les gorguettes, 13260 CASSIS": {},
-   "Chemin du Collet Redon, parc des sports, 13770 VENELLES": {},
+   "parc municipal omnisports, les gorguettes, 13260 CASSIS": {
+      "lat": 43.23110399999999,
+      "lng": 5.533148
+   },
+   "Chemin du Collet Redon, parc des sports, 13770 VENELLES": {
+      "lat": 43.596314,
+      "lng": 5.49233
+   },
    "plateau de ventabren, 13122 VENTABREN": {},
    "route napoleon, 04160 L ESCALE": {},
    "Route de Beaumont, 84120 MIRABEAU": {},
@@ -7080,7 +7521,10 @@
    "3 avenue charles de gaulle, 31138 BALMA CEDEX": {},
    "Prairie des Pratges, 46100 FIGEAC": {},
    "chemin du Bocage, 31150 FENOUILLET": {},
-   "le Ramier, 2145 route de Saint Antonin, 82000 MONTAUBAN": {},
+   "le Ramier, 2145 route de Saint Antonin, 82000 MONTAUBAN": {
+      "lat": 44.0386332,
+      "lng": 1.4127467
+   },
    "Rastely, 2215 chemin des Proats, 82230 LEOJAC": {},
    "Stade Municipal, Rue Salvador Allende, 31210 MONTREJEAU": {},
    "boulevard des Capucines, 12850 ONET LE CHATEAU": {
@@ -7111,7 +7555,10 @@
       "lat": 43.7710318,
       "lng": -0.0312656
    },
-   "11 avenue de Toulouse, 31860 PINS JUSTARET": {},
+   "11 avenue de Toulouse, 31860 PINS JUSTARET": {
+      "lat": 43.4835813,
+      "lng": 1.388753
+   },
    "Avenue du Sarlac, 82200 MOISSAC": {},
    "allée du Parc, route de Vabre, 12850 ONET LE CHATEAU": {},
    "2 avenue du Sidobre, 81100 CASTRES": {},
@@ -7199,14 +7646,38 @@
       "lat": 42.9894278,
       "lng": 1.1391808
    },
-   "aux Arenes, 32310 VALENCE SUR BAISE": {},
-   "Stade Jo Carabignac, 22bis av du Sarlat, 82200 MOISSAC": {},
-   "31260 MAZERES SUR SALAT": {},
-   "allee Pierre de Coubertin, 46090 PRADINES": {},
-   "avenue de la mairie, 31750 ESCALQUENS": {},
-   "Domaine de Montpin, 31850 MONTRABE": {},
-   "Chemin des Galeriens, 31450 MONTGISCARD": {},
-   "Parc des Sports, 65800 AUREILHAN": {},
+   "aux Arenes, 32310 VALENCE SUR BAISE": {
+      "lat": 43.882743,
+      "lng": 0.38123
+   },
+   "Stade Jo Carabignac, 22bis av du Sarlat, 82200 MOISSAC": {
+      "lat": 44.10485200000001,
+      "lng": 1.08468
+   },
+   "31260 MAZERES SUR SALAT": {
+      "lat": 43.132754,
+      "lng": 0.9734929999999998
+   },
+   "allee Pierre de Coubertin, 46090 PRADINES": {
+      "lat": 44.469446,
+      "lng": 1.409796
+   },
+   "avenue de la mairie, 31750 ESCALQUENS": {
+      "lat": 43.518975,
+      "lng": 1.55423
+   },
+   "Domaine de Montpin, 31850 MONTRABE": {
+      "lat": 43.642795,
+      "lng": 1.525443
+   },
+   "Chemin des Galeriens, 31450 MONTGISCARD": {
+      "lat": 43.4621134,
+      "lng": 1.5647994
+   },
+   "Parc des Sports, 65800 AUREILHAN": {
+      "lat": 43.242573,
+      "lng": 0.096065
+   },
    "complexe Rene Albus, allée Pierre de Coubertin, 31150 BRUGUIERES": {
       "lat": 43.7203256,
       "lng": 1.4127177
@@ -7273,9 +7744,15 @@
       "lng": 55.47215050000001
    },
    "Parc du colorado, 97417 LA MONTAGNE": {},
-   "complexe sportif bras panon, 97412 BRAS PANON": {},
+   "complexe sportif bras panon, 97412 BRAS PANON": {
+      "lat": -21.006347,
+      "lng": 55.691806
+   },
    "97434 SAINT-GILLES": {},
-   "97600 MAMOUDZOU": {},
+   "97600 MAMOUDZOU": {
+      "lat": -12.7806,
+      "lng": 45.22779999999999
+   },
    "6 rue du stade repiquet, le bocage, 97441 SAINTE SUZANNE": {},
    "17 rue de la digue, 97400 SAINT DENIS REUNION": {
       "lat": -20.9055795,
@@ -7310,10 +7787,19 @@
       "lat": -21.170676,
       "lng": 55.2902538
    },
-   "complexe sportif etang sale, 97427 ETANG SALE": {},
-   "camp magloire, 97419 POSSESSION": {},
+   "complexe sportif etang sale, 97427 ETANG SALE": {
+      "lat": -21.267378,
+      "lng": 55.35944300000001
+   },
+   "camp magloire, 97419 POSSESSION": {
+      "lat": -20.9269755,
+      "lng": 55.3398109
+   },
    "chemin casabona, stade casabona, 97410 SAINT-PIERRE": {},
-   "97431 PLAINE DES PALMISTES": {},
+   "97431 PLAINE DES PALMISTES": {
+      "lat": -20.9833866,
+      "lng": 55.2953578
+   },
    "97490 SAINTE-CLOTILDE": {},
    "bp 59, 97160 LE MOULE": {},
    "bp 7, 97118 SAINT FRANCOIS": {
@@ -7427,9 +7913,18 @@
       "lng": 2.1866017
    },
    "Rue du Beau regard, 91860 EPINAY SOUS SENART": {},
-   "stade municipal, 43 rue de la justice, 91230 MONTGERON": {},
-   "stade municipal, 2 boulevard Gayon, 91450 SOISY SUR SEINE": {},
-   "route de berchevillers, 91530 ST MAURICE MONTCOURONNE": {},
+   "stade municipal, 43 rue de la justice, 91230 MONTGERON": {
+      "lat": 48.69806250000001,
+      "lng": 2.4513142
+   },
+   "stade municipal, 2 boulevard Gayon, 91450 SOISY SUR SEINE": {
+      "lat": 48.6461805,
+      "lng": 2.4458571
+   },
+   "route de berchevillers, 91530 ST MAURICE MONTCOURONNE": {
+      "lat": 48.58771429999999,
+      "lng": 2.1140374
+   },
    "stade municipal, rue leontine sohier, 91160 LONGJUMEAU": {
       "lat": 48.6932383,
       "lng": 2.2990896
@@ -7466,13 +7961,34 @@
       "lat": 48.8365891,
       "lng": 2.2243053
    },
-   "Stade des Mathurins, 1 bis rue des Mathurins, 92220 BAGNEUX": {},
-   "Tennis Municipaux Ile Marante, 92700 COLOMBES": {},
-   "25 rue de la Bièvre, 92340 BOURG LA REINE": {},
-   "132, av François Arago, 92000 NANTERRE": {},
-   "Stade du Parc, 298 ave Napoléon Bonaparte, 92500 RUEIL MALMAISON": {},
-   "85 ave François Arago, 92000 NANTERRE": {},
-   "19 ave de la Liberté, 92000 NANTERRE": {},
+   "Stade des Mathurins, 1 bis rue des Mathurins, 92220 BAGNEUX": {
+      "lat": 48.79310659999999,
+      "lng": 2.306539
+   },
+   "Tennis Municipaux Ile Marante, 92700 COLOMBES": {
+      "lat": 48.931179,
+      "lng": 2.248307
+   },
+   "25 rue de la Bièvre, 92340 BOURG LA REINE": {
+      "lat": 48.7811853,
+      "lng": 2.3190588
+   },
+   "132, av François Arago, 92000 NANTERRE": {
+      "lat": 48.9023236,
+      "lng": 2.2272725
+   },
+   "Stade du Parc, 298 ave Napoléon Bonaparte, 92500 RUEIL MALMAISON": {
+      "lat": 48.8719814,
+      "lng": 2.1622362
+   },
+   "85 ave François Arago, 92000 NANTERRE": {
+      "lat": 48.89929069999999,
+      "lng": 2.2216296
+   },
+   "19 ave de la Liberté, 92000 NANTERRE": {
+      "lat": 48.8885329,
+      "lng": 2.2089601
+   },
    "68 boulevard de Verdun, 92400 COURBEVOIE": {},
    "Parc des Sévines, rue du Moulin de Cage, 92230 GENNEVILLIERS": {
       "lat": 48.9297768,
@@ -7557,8 +8073,14 @@
    "Chemin Rural n°25, 92500 RUEIL MALMAISON": {},
    "Centre René Rousseau, 10 bis ave Augustin Dumont, 92240 MALAKOFF": {},
    "3/5 ter rue Lucien Jeannin, 92250 LA GARENNE COLOMBES": {},
-   "Accès 32 rue Romain Rolland, 93600 AULNAY SOUS BOIS": {},
-   "20 rue Baudin, 93100 MONTREUIL": {},
+   "Accès 32 rue Romain Rolland, 93600 AULNAY SOUS BOIS": {
+      "lat": 48.9177093,
+      "lng": 2.4913133
+   },
+   "20 rue Baudin, 93100 MONTREUIL": {
+      "lat": 48.8678621,
+      "lng": 2.4475058
+   },
    "54 rue du Manège, 93420 VILLEPINTE": {
       "lat": 48.9630787,
       "lng": 2.5295987
@@ -7591,12 +8113,30 @@
       "lat": 48.940974,
       "lng": 2.497115
    },
-   "TCC STADE GEO ANDRE, 124 rue Anatole France, 93120 LA COURNEUVE": {},
-   "Complexe Arthur ASHE, Rue Marcel Cachin, 93000 BOBIGNY": {},
-   "STADE MUNICIPAL DELAUNE Tennis, 7 rue du 19 Mars 1962, 93200 ST DENIS": {},
-   "35 rue du 11 Novembre, 93330 NEUILLY SUR MARNE": {},
-   "STADE Henri BARBUSSE, Allée Henri Barbusse, 93390 CLICHY SOUS BOIS": {},
-   "Stade Gaston BUSSIERE, rue André Rousseau, 93270 SEVRAN": {},
+   "TCC STADE GEO ANDRE, 124 rue Anatole France, 93120 LA COURNEUVE": {
+      "lat": 48.92157210000001,
+      "lng": 2.4040488
+   },
+   "Complexe Arthur ASHE, Rue Marcel Cachin, 93000 BOBIGNY": {
+      "lat": 48.9146025,
+      "lng": 2.421718
+   },
+   "STADE MUNICIPAL DELAUNE Tennis, 7 rue du 19 Mars 1962, 93200 ST DENIS": {
+      "lat": 48.9477304,
+      "lng": 2.3523921
+   },
+   "35 rue du 11 Novembre, 93330 NEUILLY SUR MARNE": {
+      "lat": 48.8606807,
+      "lng": 2.5266156
+   },
+   "STADE Henri BARBUSSE, Allée Henri Barbusse, 93390 CLICHY SOUS BOIS": {
+      "lat": 48.90630100000001,
+      "lng": 2.5509031
+   },
+   "Stade Gaston BUSSIERE, rue André Rousseau, 93270 SEVRAN": {
+      "lat": 48.9414701,
+      "lng": 2.5347841
+   },
    "27 rue marguerite, 93360 NEUILLY PLAISANCE": {
       "lat": 48.85592159999999,
       "lng": 2.5151204
@@ -7637,13 +8177,34 @@
       "lat": 48.9128824,
       "lng": 2.5834371
    },
-   "PMS - Centre André Michelberger, Chemin des Bassins, 94000 CRETEIL": {},
-   "230 av. du gal de gaulle, 94500 CHAMPIGNY SUR MARNE": {},
-   "39, rue de paris, 94370 SUCY EN BRIE": {},
-   "stade pierre pouget, 94480 ABLON SUR SEINE": {},
-   "Siege Social Mairie, Fbg Saint Marceau, 94440 MAROLLES EN BRIE": {},
-   "stade g. le tiec -, 2 rue g. lacassagne, 94120 FONTENAY SOUS BOIS": {},
-   "stade alain mimoun, 94320 THIAIS": {},
+   "PMS - Centre André Michelberger, Chemin des Bassins, 94000 CRETEIL": {
+      "lat": 48.76549780000001,
+      "lng": 2.4666124
+   },
+   "230 av. du gal de gaulle, 94500 CHAMPIGNY SUR MARNE": {
+      "lat": 48.826518,
+      "lng": 2.5065755
+   },
+   "39, rue de paris, 94370 SUCY EN BRIE": {
+      "lat": 48.7746599,
+      "lng": 2.5107637
+   },
+   "stade pierre pouget, 94480 ABLON SUR SEINE": {
+      "lat": 48.72360399999999,
+      "lng": 2.422815
+   },
+   "Siege Social Mairie, Fbg Saint Marceau, 94440 MAROLLES EN BRIE": {
+      "lat": 48.73421,
+      "lng": 2.551714
+   },
+   "stade g. le tiec -, 2 rue g. lacassagne, 94120 FONTENAY SOUS BOIS": {
+      "lat": 48.8462597,
+      "lng": 2.4859863
+   },
+   "stade alain mimoun, 94320 THIAIS": {
+      "lat": 48.760344,
+      "lng": 2.387405
+   },
    "Stade Octave LAPIZE, chemin des rompus, 94350 VILLIERS SUR MARNE": {
       "lat": 48.829528,
       "lng": 2.5526286
@@ -7684,10 +8245,22 @@
       "lat": 48.813055,
       "lng": 2.38822
    },
-   "68, av. des minimes, 94160 ST MANDE": {},
-   "colline cacao centre - evasion, rue du marche, 94150 RUNGIS": {},
-   "134, rue bernau, 94500 CHAMPIGNY SUR MARNE": {},
-   "6, bis rue du port, 94130 NOGENT SUR MARNE": {},
+   "68, av. des minimes, 94160 ST MANDE": {
+      "lat": 48.8418375,
+      "lng": 2.4255054
+   },
+   "colline cacao centre - evasion, rue du marche, 94150 RUNGIS": {
+      "lat": 48.744383,
+      "lng": 2.3497462
+   },
+   "134, rue bernau, 94500 CHAMPIGNY SUR MARNE": {
+      "lat": 48.81740809999999,
+      "lng": 2.5155504
+   },
+   "6, bis rue du port, 94130 NOGENT SUR MARNE": {
+      "lat": 48.8332254,
+      "lng": 2.4893042
+   },
    "rue du stade, avenue g. guynemer, 94550 CHEVILLY LARUE": {},
    "parc des sports, route de la queue en brie, 94370 SUCY EN BRIE": {},
    "Plaine Sud Chemin des Boeufs, Parc Interdépartemental Sports, 94000 CRETEIL": {
@@ -7730,7 +8303,10 @@
    "stade municipal, rue pelletier, 95360 MONTMAGNY": {},
    "Complexe les Ponceaux, 5o, rue de pontoise, 95000 CERGY": {},
    "Espace Henri Burg, 51 avenue du Parc, 95100 ARGENTEUIL": {},
-   "33, avenue d. casanova, 95210 ST GRATIEN": {},
+   "33, avenue d. casanova, 95210 ST GRATIEN": {
+      "lat": 48.9741392,
+      "lng": 2.2904357
+   },
    "138, rue du château, 95320 ST LEU LA FORET": {
       "lat": 49.0228736,
       "lng": 2.2516092
@@ -7764,8 +8340,14 @@
       "lat": 48.98032010000001,
       "lng": 2.2106453
    },
-   "complexe sportif roissy, 55, rue houdart, 95700 ROISSY EN FRANCE": {},
-   "40, rue des gallerands, 95160 MONTMORENCY": {},
+   "complexe sportif roissy, 55, rue houdart, 95700 ROISSY EN FRANCE": {
+      "lat": 49.0066717,
+      "lng": 2.5151179
+   },
+   "40, rue des gallerands, 95160 MONTMORENCY": {
+      "lat": 48.9890761,
+      "lng": 2.3309098
+   },
    "stade jean bouin, 113, rue de Montmorency, 95150 TAVERNY": {},
    "complexe Maurice Bacquet, allee du 5 décembre 1962- BP 316, 95696 GOUSSAINVILLE cedex": {},
    "48, av. jules siegfried, 95130 LE PLESSIS BOUCHARD": {},
@@ -7803,10 +8385,16 @@
       "lng": 2.3674766
    },
    "COMPLEXE SPORTIF S. LENGLEN, 14, rue du docteur roux, 95600 EAUBONNE": {},
-   "rue des cordonniers, 95570 BOUFFEMONT": {},
+   "rue des cordonniers, 95570 BOUFFEMONT": {
+      "lat": 49.04249799999999,
+      "lng": 2.309018
+   },
    "complexe sport. j moulin, rue f. de pressense, 95870 BEZONS": {},
    "49 rue des martinets, 95170 DEUIL LA BARRE": {},
-   "Stade Intercommunal, 6, rue Jean Bouin, 95170 DEUIL LA BARRE": {},
+   "Stade Intercommunal, 6, rue Jean Bouin, 95170 DEUIL LA BARRE": {
+      "lat": 48.9691457,
+      "lng": 2.3211539
+   },
    "lieu dit les vallees, 95510 VETHEUIL": {},
    "rue emile combres, 95560 MONTSOULT": {
       "lat": 49.0678065,
@@ -7848,10 +8436,22 @@
       "lat": 48.8224908,
       "lng": 2.6422496
    },
-   "stade e. bezou, 77810 THOMERY": {},
-   "ave de la 7ème D.B.Américaine, 77000 MELUN": {},
-   "complexe sportif r.pluvinage, 77178 ST PATHUS": {},
-   "Tennis des Marmousets, 77700 SERRIS": {},
+   "stade e. bezou, 77810 THOMERY": {
+      "lat": 48.40915400000001,
+      "lng": 2.784672
+   },
+   "ave de la 7ème D.B.Américaine, 77000 MELUN": {
+      "lat": 48.52993,
+      "lng": 2.665557
+   },
+   "complexe sportif r.pluvinage, 77178 ST PATHUS": {
+      "lat": 49.07342,
+      "lng": 2.794489
+   },
+   "Tennis des Marmousets, 77700 SERRIS": {
+      "lat": 48.84432,
+      "lng": 2.788231
+   },
    "Rue de la Liberation, Stade R.Moriceau, 77230 DAMMARTIN EN GOELE": {
       "lat": 49.054824,
       "lng": 2.683399
@@ -7888,14 +8488,32 @@
       "lat": 48.4976681,
       "lng": 2.7795639
    },
-   "Pole tennistique Maurice Machoel, 6 rue Guy Rabourdin, 77500 CHELLES": {},
+   "Pole tennistique Maurice Machoel, 6 rue Guy Rabourdin, 77500 CHELLES": {
+      "lat": 48.880632,
+      "lng": 2.614409
+   },
    "Stade Tauziet, 77100 MEAUX": {},
-   "rue de la saussaie, 77250 MORET SUR LOING": {},
+   "rue de la saussaie, 77250 MORET SUR LOING": {
+      "lat": 48.373447,
+      "lng": 2.823172
+   },
    "rue de conde, stade a. robert, 77450 MONTRY": {},
-   "avenue  Pasteur, Stade C.Petit, 77410 CLAYE SOUILLY": {},
-   "av S.Allende, 77270 VILLEPARISIS": {},
-   "Stade Fontaine aux Coulons, 77420 CHAMPS SUR MARNE": {},
-   "2 ave du moulin, 77680 ROISSY EN BRIE": {},
+   "avenue  Pasteur, Stade C.Petit, 77410 CLAYE SOUILLY": {
+      "lat": 48.945849,
+      "lng": 2.68836
+   },
+   "av S.Allende, 77270 VILLEPARISIS": {
+      "lat": 48.9549651,
+      "lng": 2.6127846
+   },
+   "Stade Fontaine aux Coulons, 77420 CHAMPS SUR MARNE": {
+      "lat": 48.852775,
+      "lng": 2.602651
+   },
+   "2 ave du moulin, 77680 ROISSY EN BRIE": {
+      "lat": 48.79092800000001,
+      "lng": 2.6432065
+   },
    "rue R.Benoist, 77860 QUINCY VOISINS": {
       "lat": 48.900673,
       "lng": 2.865403
@@ -7928,9 +8546,18 @@
       "lat": 48.717689,
       "lng": 2.589733
    },
-   "rue du 19 mars 1962, 77170 BRIE COMTE ROBERT": {},
-   "17bis allee de la foret, 77185 LOGNES": {},
-   "rue des etangs, Stade P.Guillot, 77190 DAMMARIE LES LYS": {},
+   "rue du 19 mars 1962, 77170 BRIE COMTE ROBERT": {
+      "lat": 48.6859305,
+      "lng": 2.6114453
+   },
+   "17bis allee de la foret, 77185 LOGNES": {
+      "lat": 48.835153,
+      "lng": 2.624543
+   },
+   "rue des etangs, Stade P.Guillot, 77190 DAMMARIE LES LYS": {
+      "lat": 48.515451,
+      "lng": 2.634831
+   },
    "Stade M.Rougé, plaine des 18 sous, 77176 NANDY": {},
    "rte St Martin des champs, 77320 LA FERTE GAUCHER": {},
    "Stade Langenargen, rue Moreau de tours, 77590 BOIS LE ROI": {},
@@ -8286,7 +8913,10 @@
       "lat": 47.8701967,
       "lng": 2.1345755
    },
-   "181, Boulevard de l'Avenir, 18000 BOURGES": {},
+   "181, Boulevard de l'Avenir, 18000 BOURGES": {
+      "lat": 47.0733519,
+      "lng": 2.386548
+   },
    "mairie d'Ormes, 45140 ORMES": {
       "lat": 49.2544456,
       "lng": 3.9526795
@@ -8431,9 +9061,18 @@
       "lat": 50.3962239,
       "lng": 3.486391
    },
-   "Stade de l'Union, 43, rue Delforge, 59580 ANICHE": {},
-   "Centre Sportif, Rue d'Hallennes, 59320 SEQUEDIN": {},
-   "La Hallerie, 44 rue du 11 novembre, 59930 LA CHAPELLE D'ARMENTIERES": {},
+   "Stade de l'Union, 43, rue Delforge, 59580 ANICHE": {
+      "lat": 50.3339104,
+      "lng": 3.2439268
+   },
+   "Centre Sportif, Rue d'Hallennes, 59320 SEQUEDIN": {
+      "lat": 50.6231219,
+      "lng": 2.9792955
+   },
+   "La Hallerie, 44 rue du 11 novembre, 59930 LA CHAPELLE D'ARMENTIERES": {
+      "lat": 50.6670653,
+      "lng": 2.8992297
+   },
    "29 rue de l'Abbayette, 62223 ANZIN ST AUBIN": {
       "lat": 50.3147752,
       "lng": 2.7491527
@@ -8564,11 +9203,17 @@
       "lng": 4.7564042
    },
    "Parc d'affaires de Moulin à Vent, bat 11-1, 33 Av du Dr G LEVY, 69693 VENISSIEUX CEDEX": {},
-   "Stade Municipal Fétan, ZI Route d'Anse, 01600 TREVOUX": {},
+   "Stade Municipal Fétan, ZI Route d'Anse, 01600 TREVOUX": {
+      "lat": 45.94094,
+      "lng": 4.774296
+   },
    "Zone de l'Etrat, 01100 ARBENT": {},
    "Le Stade, 69480 Ambérieux d'Azergues": {},
    "Zone d'Activité les Rivets, 42220 BOURG ARGENTAL": {},
-   "Stade Municipal, 69210 L'ARBRESLE": {},
+   "Stade Municipal, 69210 L'ARBRESLE": {
+      "lat": 45.834999,
+      "lng": 4.614934
+   },
    "Rue de l'Industrie, 42340 VEAUCHE": {},
    "Avenue de l'Europe, 69480 ANSE": {},
    "Parc de l'Europe, Rue du Docteur Long, 69320 FEYZIN": {
@@ -8608,11 +9253,20 @@
       "lng": -1.0874296
    },
    "stade henri jeanne, bd d'eindhoven, 14400 BAYEUX": {},
-   "79 rue de l'isle, 61000 ALENCON": {},
+   "79 rue de l'isle, 61000 ALENCON": {
+      "lat": 48.4253599,
+      "lng": 0.09321439999999999
+   },
    "rue d'estouteville, 50400 GRANVILLE": {},
    "le bois d'etennemare, 28 rue georges gaulard, 76460 ST VALERY EN CAUX": {},
-   "Complexe sportif Germinal, avenue d'anderten, 76350 OISSEL": {},
-   "rue du stade/20 av. de l'europe, 27300 BERNAY": {},
+   "Complexe sportif Germinal, avenue d'anderten, 76350 OISSEL": {
+      "lat": 49.3505624,
+      "lng": 1.0914387
+   },
+   "rue du stade/20 av. de l'europe, 27300 BERNAY": {
+      "lat": 49.0825462,
+      "lng": 0.589896
+   },
    "stade rene foisy, rue des sports, 61300 L'AIGLE": {
       "lat": 48.759298,
       "lng": 0.635709
@@ -8649,9 +9303,15 @@
       "lat": 49.3702553,
       "lng": 2.0007102
    },
-   "234 bd de L'Europe, 79300 BRESSUIRE": {},
+   "234 bd de L'Europe, 79300 BRESSUIRE": {
+      "lat": 46.8390034,
+      "lng": -0.4745851
+   },
    "Gymnase du District, rue de l'ancien Porche, 86360 MONTAMISE": {},
-   "Tennis Club, Av d'Antioche, 17670 LA COUARDE SUR MER": {},
+   "Tennis Club, Av d'Antioche, 17670 LA COUARDE SUR MER": {
+      "lat": 46.192749,
+      "lng": -1.4303317
+   },
    "ROUTE D'ARAMON, STADE PAGES, 30133 LES ANGLES": {},
    "complexe sportif l'ouviere, 13710 FUVEAU": {},
    "rue Rouard, 84240 LA TOUR-D'AIGUES": {},
@@ -8726,9 +9386,15 @@
    },
    "15, rue d'Alsace, 92600 ASNIERES SUR SEINE": {},
    "5 rue de l'Yser, 92330 SCEAUX": {},
-   "123 rue d'Orgemont, 93800 EPINAY SUR SEINE": {},
+   "123 rue d'Orgemont, 93800 EPINAY SUR SEINE": {
+      "lat": 48.9536477,
+      "lng": 2.2940642
+   },
    "stade municipal d'auvers, 95430 AUVERS": {},
-   "avenue paul thoureau, 95290 L'ISLE ADAM": {},
+   "avenue paul thoureau, 95290 L'ISLE ADAM": {
+      "lat": 49.12129729999999,
+      "lng": 2.2204534
+   },
    "bd d'Osny - rue des Tournois, 95000 CERGY": {},
    "parc des sports, bld ducher, 95310 SAINT OUEN L'AUMONE": {},
    "5 allée eugene magniez, 8 bis rue d'eaubonne, 95580 MARGENCY": {
@@ -8806,7 +9472,10 @@
       "lat": 49.0783601,
       "lng": 2.1103937
    },
-   "stade jules ladoumegue, rue d'Estienne d'Orves, 77290 MITRY MORY": {},
+   "stade jules ladoumegue, rue d'Estienne d'Orves, 77290 MITRY MORY": {
+      "lat": 48.9802395,
+      "lng": 2.612562
+   },
    "Rue du Stade,  72230 MULSANNE": {
       "lat": 47.9083998,
       "lng": 0.2379826
@@ -8856,7 +9525,10 @@
       "lat": 47.209847,
       "lng": -0.7219533
    },
-   "Avenue de la République,  72400 LA FERTE BERNARD": {},
+   "Avenue de la République,  72400 LA FERTE BERNARD": {
+      "lat": 48.1881237,
+      "lng": 0.6451043
+   },
    " les graviers, 63530 ENVAL": {},
    " 69 rue des Grands Chemins, 22440 PLOUFRAGAN": {
       "lat": 48.48313719999999,
@@ -8914,7 +9586,10 @@
       "lat": 43.624076,
       "lng": 6.694103000000001
    },
-   "50, Avenue Napoléon III,  06230 VILLEFRANCHE SUR MER": {},
+   "50, Avenue Napoléon III,  06230 VILLEFRANCHE SUR MER": {
+      "lat": 43.7081187,
+      "lng": 7.313261799999998
+   },
    "1735, Avenue N.D de Vie,  06250 MOUGINS": {
       "lat": 43.5895197,
       "lng": 7.003412399999999
@@ -9038,9 +9713,18 @@
       "lng": 0.463277
    },
    " bois des capucins, 14290 ORBEC EN AUGE": {},
-   " Rue d'Emptine, 02870 VIVAISE": {},
-   " Rue Vignet, 60810 RULLY": {},
-   " 46 bis rue Lucette Bonard, 80330 LONGUEAU": {},
+   " Rue d'Emptine, 02870 VIVAISE": {
+      "lat": 49.6201549,
+      "lng": 3.56023
+   },
+   " Rue Vignet, 60810 RULLY": {
+      "lat": 49.2390269,
+      "lng": 2.7345299
+   },
+   " 46 bis rue Lucette Bonard, 80330 LONGUEAU": {
+      "lat": 49.876253,
+      "lng": 2.3628909
+   },
    " Esplanade, 02760 HOLNON": {},
    " Allée Maurice Gore, 60210 GRANDVILLIERS": {},
    " Rue Hoche, 60400 NOYON": {},
@@ -9086,7 +9770,10 @@
       "lng": 6.061583499999999
    },
    " Avenue des Belonnets, 13124 PEYPIN": {},
-   "441 AVENUE JEAN MERMOZ,  13160 CHATEAURENARD": {},
+   "441 AVENUE JEAN MERMOZ,  13160 CHATEAURENARD": {
+      "lat": 43.8812785,
+      "lng": 4.8695656
+   },
    " 18  TER RUE DES SAGNIERES, 05000 GAP": {},
    " 28 Boulevard Marcel Pagnol, 13220 CHATEAUNEUF-LES-MARTIGUES": {},
    " STADE GROSFILS, 13630 EYRAGUES": {},
@@ -9134,8 +9821,14 @@
       "lat": 43.2677923,
       "lng": 5.3805089
    },
-   " QUARTIER MONTAUBAN, 13450 GRANS": {},
-   " 1 rue cassin, 13320 BOUC-BEL-AIR": {},
+   " QUARTIER MONTAUBAN, 13450 GRANS": {
+      "lat": 43.607073,
+      "lng": 5.063777
+   },
+   " 1 rue cassin, 13320 BOUC-BEL-AIR": {
+      "lat": 43.4463175,
+      "lng": 5.420154999999999
+   },
    " 3 rue Saint Ferreol, 65800 CHIS": {},
    "rue de l' Hotel de Ville,  31120 PORTET SUR GARONNE": {},
    "Centre de Plein Air  le Lac , route du Bataillon d'Armagnac, 32600 L'ISLE JOURDAIN": {},
