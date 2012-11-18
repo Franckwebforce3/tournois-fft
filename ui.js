@@ -61,6 +61,16 @@ var TournoiFinder = {
         };
         google.maps.event.addListener(this.map, 'zoom_changed', mapChanged);
         google.maps.event.addListener(this.map, 'dragend', mapChanged);
+
+        var that = this;
+        if (geo_position_js.init()) {
+            geo_position_js.getCurrentPosition(function (p) {
+                that.center = new google.maps.LatLng( p.coords.latitude, p.coords.longitude);
+                that.map.setCenter(that.center);
+            }, function () {
+                alert("Could not find you!");
+            });
+        }
     },
 
     onMapChanged: function() {
