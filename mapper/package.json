@@ -1,0 +1,14 @@
+{
+    "name": "tournois-fft-mapper",
+    "version": "0.0.1",
+    "description": "Recherche les lat/lng des tournois FFT",
+    "author": "Eric Abouaf <eric.abouaf@gmail.com>",
+    "private": true,
+    "engines": {
+        "node" : ">=0.8.0"
+    },
+    "dependencies": {
+        "request": "2.11.4",
+        "async": "0.1.22"
+    }
+}
